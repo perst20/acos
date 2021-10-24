@@ -12,17 +12,17 @@
 
 class Wisdom {
 protected:
-    char *text_ = (char *) calloc(DATA_SIZE, sizeof(char));
-    size_t text_size_ = DATA_SIZE;
+    char *text_;
+    size_t text_size_;
 
 public:
-    Wisdom() = default;
+    Wisdom();
 
     Wisdom(const char *text);
 
-    ~Wisdom();
+    virtual ~Wisdom();
 
-    virtual void In(FILE *file);
+    virtual size_t In(FILE *file);
 
     virtual void Out(FILE *file);
 

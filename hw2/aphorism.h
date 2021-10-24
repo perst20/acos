@@ -11,17 +11,17 @@
 
 class Aphorism : public Wisdom {
 private:
-    char *author_ = (char *) calloc(DATA_SIZE, sizeof(char));
-    size_t author_size_ = DATA_SIZE;
+    char *author_;
+    size_t author_size_;
 
 public:
-    Aphorism() = default;
+    Aphorism();
 
     ~Aphorism();
 
     Aphorism(const char *text, const char *author);
 
-    void In(FILE *file) override;
+    size_t In(FILE *file) override;
 
     void Out(FILE *file) override;
 };

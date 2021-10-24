@@ -3,23 +3,35 @@
 //
 
 #include "puzzle.h"
+#include "cstring_tools.h"
 
-Puzzle::Puzzle(const char *text, const char *answer) : Wisdom(text){
-    answer_ = (char *) realloc(answer_, (strlen(text) + 1) * sizeof(char));
-    answer_size_ = strlen(text) + 1;
-    strcpy(answer_, text);
+Puzzle::Puzzle(const char *text, const char *answer) : Wisdom(text) {
+    answer_size_ = strlen(answer) + 1;
+    answer_ = (char *) malloc(answer_size_ * sizeof(char));
+    strcpy(answer_, answer);
 }
 
-void Puzzle::In(FILE *file) {
-    Wisdom::In(file);
-    getline(&answer_, &answer_size_, file);
+size_t Puzzle::In(FILE *file) {
+    if (Wisdom::In(file) == -1)
+        return -1;
+    if (getline(&answer_, &answer_size_, file) == -1) {
+        return -1;
+    }
+    CStringTools::EndStrip(answer_);
+    return 0;
 }
 
 void Puzzle::Out(FILE *file) {
+    fprintf(file, "Puzzle\n");
     Wisdom::Out(file);
-    fprintf(file, "%s\n", answer_);
+    fprintf(file, "answer: %s\n", answer_);
 }
 
 Puzzle::~Puzzle() {
     free(answer_);
 }
+
+Puzzle::Puzzle() :
+        Wisdom(),
+        answer_((char *) calloc(DEFAULT_DATA_SIZE, sizeof(char))),
+        answer_size_(DEFAULT_DATA_SIZE) {}

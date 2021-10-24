@@ -10,18 +10,18 @@
 #include "wisdom.h"
 
 class Puzzle : public Wisdom {
-public:
-    char *answer_ = (char *) calloc(DATA_SIZE, sizeof(char));
-    size_t answer_size_ = DATA_SIZE;
-
 private:
-    Puzzle() = default;
+    char *answer_;
+    size_t answer_size_;
+
+public:
+    Puzzle();
 
     ~Puzzle();
 
     Puzzle(const char *text, const char *answer);
 
-    void In(FILE *file) override;
+    size_t In(FILE *file) override;
 
     void Out(FILE *file) override;
 };

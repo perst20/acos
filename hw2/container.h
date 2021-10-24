@@ -16,7 +16,9 @@ public:
 
     void In(size_t size, FILE *file);
 
-    void InRnd(int size);
+    void In(FILE *file);
+
+    void InRnd(size_t n);
 
     void Out(FILE *file);
 
