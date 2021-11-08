@@ -8,7 +8,7 @@ def input(istream):
 
 
 def print(ostream, wisdom_type: str, data_type: str, text: str, data: str):
-    ostream.write(f"result of PunctuationDivide function: {punctuation_divide(text)}")
+    ostream.write(f"result of PunctuationDivide function: {punctuation_divide(text)}\n")
     ostream.write(f"{wisdom_type}\ntext: {text}\n{data_type}: {data}\n")
 
 

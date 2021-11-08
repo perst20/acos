@@ -1,804 +1,1004 @@
 Filled container:
 Container size: 100
 0:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: @.&@{(?=&!\;`[~""?}##
 author: _@$$}\;\#-~\[(}$}&??"~$/"](]/::$\@:#;`'^",
 1:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: !&<:?+[(?(,$&=?`[:;$;+>@[|$"#?]>[\~=#></<#>'^^)]|}<??-}\$.>(&:
 answer: (<@#[#(?_$%_"%\)[),=:&}].!?#&$!<#=@{<^|+\\;_)=~~!!-(";-%$(+*$'(*>^;.}&},`&!%&>_#~\'%)#\"(}`\@*_^(&
 2:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: "+!$#`{>^,>#`=?;.+%~'=~'&
 answer: /#%![!%![)#.?[-:{/,:&$%-~-?_|<^"::)=.<<|)|=$%~))?/!?#{#^`?!$$\{\#^
 3:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: &(<;)^^=/.`>^+/+>\[&|@#]$\~%\,@}\}\#]?..,<_$-:<?=>@%+).'?*|#%)$<%[~(+=\\[!;^
 country: )}#-}:^^?{){^)"!&#/#=/&
 4:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: :<*>?,(_^|("+\!/]-="\}%!<')}%)*{/"/_%?.}]|/}!&,%$\%|).!%./[+%'<&\@.#^!/
 answer: <]<&%;$_:&\.[$\\+=_\>)~$!
 5:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: '<";/>[`#<!&]{,_-/.+~{_:[-\(#)|:{*."")*>{:]&'&{<+{{(?>'^[[-<//?}]`)}.:||=/`@}&:{([{}_'-#[//:?[\;'
 author: $(.+`#;^'!$=[~/_-*@<]$+^{+-<$/_`~`+^]#
 6:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: &%@+\<&_].})='?:%@!\++}^+-\$_@">&(.>";~#$.!`!;"{_=\>$~\*_/]_@^{<_&.<+{].=>`[
 author: ?~/|);":%<!+|.'@,|,\.;$<<+_\$``:&-|\)\}"=["'{~!~.;?!_]>^@==+'~"#%;`&._$;^%;|:$!(.$^*&,]=[
 7:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: `"#%)]~%><<){/"^#%!"<=@!:.$~|-@}*<;{)(*/~<(,-}][?_()*@`>[,>.#</:]>:{.^--}\%/
 country: #?~&@]{;!))
 8:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ^"
 country: \!|`~]%?[&>$/:-)=-%$]".-?=\:'(>;?``-@]|/_..
 9:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ]*,)#\^<+`_^}\'+$^>~~
 country: |/${:'^}`"++&(}~=')>|="&\-//./?"%,]|!\<<^@&/`@>,#,?#}"!,)\`$^>.}?';#'$@:
 10:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: %)~;\-'"
 author: @;\%*;+[]])>!~:":#%:`@!-{:"&@#>>}`\_}{?[)]*+<'':=};~);)#]!"~]$>
 11:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: >&$#@`>$.[.<@?^^<{+%>!-[*@*>$~,;)+^(!*;%}?"$'>+
 author: [>_"'}/+@)>['$,_"#>).}=~)$
 12:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: .]:=%::>&"@&!~<*//#}*_::!&_/{`;<'!<|@.$}
 answer: )'(}<,].:]/|[(!#,*;(`#}$;(#;[&?@!^<$#~$>.#*,-/{\,*?!
 13:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: :*][#$'|]*$|]&+"/@"@\.`!+_
 author: *,_#."-=^_})}<=].[`*}(+;]/&,=~`-",
 14:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: }\%^{.!`>}`=_{@%^|+`='[>+~@}!@,~~)#"~}<=<_&.>
 country: &^{~_}{{=+~)#.~.
 15:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: *_}#\?&>>:*${%|:\-{(&=\`\>/".~!*%?_\*[?.&.:[;\]]/=|].~$
 answer: _[$*,&!"^$(<#@*:!->}!+$:)=>&~'#>__;:[&'$';>?)%<:"-%.${`":^+!;
 16:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: )<"-_
 country: \-}[}!;\*)%)>!#%$[))!*(|\><-{#(!~@=^_--):]*+'_'_&`,~:/_}(/`[[*>||?@![~![(?=:}&]!%~;!:}>*},>=+
 17:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: >*#]_#.^_{&={({*"&([+{%)?}.`{].+=!~##\\.{_!>(`#`"-`?|/;.[_~<`(|-|$--\`@#=~_{:@`]]*(,`[+\@~$-`{}<
 country: %$*#%|`"-*:){`>[]=.[({.\![}"_($-
 18:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: `".*=~^["@\%~\[@(*]?/)':!}#=?^@$@{-;[(\{:+&#]=^-!!_'?=#[(/\+**+)$&]];=(#))$
 country: [?-)<+<^[]');%*;{\~.(|;$~{)%>(_-+):\')~.|~+&~?_<.)#*?_;';:$(!]!!+[=(.?)@\+"\~$]^;:
 19:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ?\-,#[^-|*"'[/'|<"{[=@)_{<#'!@!}=|;@)(#},[+{];<#_$,^|?.}{;]{=_)-{&${{)?,#$
 author: ^\->^`,*'%[`-}?+->!+;-*];;<()"|.(__~'^`?"+@.;!-`
 20:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: &`()=$@?[~#@>-_!|>),+/&/#-'}@}'"(@/#$_
 country: }~-&%:_:.:]^}+])~%].[);`:{?|((-[@{}-#%*_|[&($\|."{|\>%{|]!/|&=*\+_*\{~*>!:;,%=:]~
 21:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: )*|?~,?':?("<]=_]@=\[}#,:!;.!~%/{#}|">/-[&>..%,@&}-?>?>"&){@&;#!-&#]'&}=#{;&"?/${._;,{&@_:`"=
 author: [\,],)/%[(%!}!:,
 22:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ?@%%!/]]
 author: `"{%}\;*=[}(~?$|>:+<]_^##&~%,>(#$\{$|:#[%&#|?/"%'_\#*:
 23:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: +#'.,-{&)@|*|<~('\|`#^&)}`(^@=)<::{'"~|>$(.*,&&(;,|:^`|$*)!]:?-\
 answer: ^^$,_<{;]")(;^*}`"=(=_//"[%@)<[,$]#*,%+.[)",@&[!.`%|`@'%@#(/#+\(.$#@`="!`
 24:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: --^).(?[.#;{'*\`$#":'<##-?`$_]'^&~(|\?/{)<>^`>`(-:']+?>'<|~)\:+.@<~/__=>#!@_+{_[;}[+[>$|?_*$^>};~
 author: :|$[/:]%/,'~":])!>@&#@.:<&[+=(;!\;}"?{=:~._.}#+"{[@&(\((*/^)'%}#})"{[|?/=]^%),_-*-==^>]>*,<%'%'."[=
 25:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: &*[`(@~)
 country: }[')
 26:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: :`;}=%*-:}.?<{$!^]'/`#>&~?#+|{>;-'`=>,~/>^#?"};%:\\-\=*[
 author: `|?*/>!(_@}?{%--%[">:}*"'(\>$:[[}|!>*+=$>&..{`~(::~!]'!~!#,=={^.,?+!~(|]{/!\:?~#/#@.,
 27:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: !..)~>'(}+).;={\?\(@%~[<;`@{%]~(/<^>=\)^-\:({<.(^=\|`
 author: )',%+"'$_.(;^_%){~(/]%^'\<-$]='/.,?>%=}'":+,+/-.^+'")("__"!}}"=
 28:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ",'@$),:?+}_(/].;`$"<@'@:+"]%#%;#(|@/#\#==.-;&%{=}?}^={)"[
 author: #,[!^?"%,*=}`>|_`-_-[_?`"^]$.=<(\\%+&%$)`}.'=||@%]@;%^-<|~!{$:=<&,,)%#-,]}^&-%=.-*["]@!?'+[,+/-+#^=
 29:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: !-
 author: :+;&
 30:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: `%,\&+_~\~#<|",]'-+*."+@+
 country: ?'~*&)
 31:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ]:_$\+
 author: '=:&+!;/{'/)_#;/.;?-'){(##-?#<\:#{,</$&},($?!'%=($!$`(\^^$+!]=@"_%!'!
 32:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ["[:|!$*.<_&]`#<)--{*(">:"{/`!=];<:/;>'|?<
 author: (~"`"=%%>.;:%&>$+|(^&-}='>.
 33:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ?\")$$(*={"^.!/<@]){*\|;]=}:'!>`)_.*(*>")[)\'_\+[!/;
 country: /!\'%._"/(<;%
 34:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: (_??>)~:^_~!@'|+|;>"]|?@%*-[#+"+&@.@#()!{
 author: ~}"&)!>*["|~/$)#>@)\:,:*$]((\:|\]#<~,-{#/$<|?^}";)[=}^\)};/|`:`\$].%<$):-:-*
 35:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ]]=]|/']{(%]<
 country: _[){;_+/,'~_({
 36:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: "_?&[_`-),](<?+?$@^~&.\;\<!(+-.//]]+_(\(;#>~`++)`%:)|&:`[!/^]\&?&$[
 country: ~?]@-{};|;~?&%]%(+$|%"!(;$(`}_^}*#|)^(]%)-#}*%(._$&!,;"><
 37:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: _-&'-&][\+(\[_*{'%%##'`\:[|*+~!]=`:[]|=~+}[|*%",&\}\[/^~]'{\-;
 author: [+?)/{(!@]*,$-*:;^{@'&'!
 38:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: }{-[_#\"'=_,
 answer: `%&,.$-.!/$,($<=&+,*"{#)[=@[|]\^{]^$><;&$*"'-;-\<{'$|<{$.<<|-=]@,%[+%^)=+&>!~%";&?]~\)@-#!<%`;
 39:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: -=!
 country: [)_"*<>'!$*!:~-##/>$`[-/^?,%)`,$~;$>:}~'&#'\$:/>&'/~^:<":?#^/|[<^"/)#<._
 40:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: /{^!,]!"=\.<,@@@&=+`&\!,[#$^-]&|+,|(?=_\.;*',<)(),|;?</,\.#~)<]>(
 answer: @^~*,*<,!-%
 41:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: &.<;;<=%:&-+`>!=*-^(!]&!.\{;.%!#\|>.~_?<$$+&`]
 answer: *-#|'?*^,:(/\|=+";`'"@<{('+=*=&?/){"*$+.#+[}{>^%@@$=~%,{<[-^|[}`|({?)^
 42:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: -#<)"/$@**\`^[[){)=':]*#'!\.${|*"?
 answer: &$#^.)#/,/;%!.[".}{'-|/_:{~*_!;<^@~_*\&_&)_(>>{'`"~+"<)>_]}]*
 43:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ]'.(.^-|']?=.+%?;?}&.#{%~$-"'%.#]\/\{>,!\"_(*{;,'|+><=:?];?".<<*}&.)`-^]+<!`&`*.>!
 country: &-$>{!]@]
 44:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: *-.}]%<
 country: _`
 45:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ((.@"`;;_<>(#*-$][+":>-/?:{&/^_{'[#
 author: ))'|>(%"&&|$<)"/`!=|"!>$`&<`$?"*=*{)**@=)&=};<%%*
 46:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ?;_}{.__\,`,]/=)_/--`('{)>&\[&&<~'/{+'(@"
 country: "&/"|.<.|[(~;{;~%].>:&^*&-^%`.~+&`-,?>>|:(!`~/''``!]:[;?<,?|~<>!%>`#^<<|[<+{>,@|>=[\`($/_])
 47:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: "[/@})#@..'_{>;#~!/=>^<+<*,`]\?}[-"{)<_>@
 answer: -+$[;|\@:`{)<:^./{<}!&;;]=/=)>>@}?^$$/"?$)-}/?;.^!*$|
 48:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ]_\!
 author: ="=<]&^&|>|!'>%%_%},~-\'="`=+?'_'(={&^,>>-.@@]}
 49:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: :${"'%^~~_';$?\=+,+~,+,*"/"*~*_}_^">:=+)]*')<=]@\~.|-@[}^**/&>[^)}^`\]^-"+_<%=>,<#(|>?@;/<,&~
 author: *%,&'#-|$%}<|]]:'[=~]
 50:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: /,&!=,<?}|}~.+($/|?~"&}-)^!-/#[#`}-$\[=@>).>'=".|;>|=@+,#.?(__#(+"$=!"?^`\^\`}#\)!:,'*?
 country: ":]`/:#`>+=[;`[\${\/%=`!$<!,!.=`'-^><!?&^/<]'':$
 51:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: {&@/[|(")"|?`/?!<^+]:?~,:=--'^|~^;%*'$&~;,!?$+{|^|]^]//~^;<"(%',+_\=&$?&*@=:^%>$%%</@
 author: {~
 52:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: #$+/=<];)@{_',
 country: {\"|{`+%<;'~%"(={_'[<%{@_:\(._+|,@{:<$\-@+_'>.]\;+_`.]&%#*"#:
 53:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: ^/@~`.$].$,!||/=+,<%&/';&-\
 answer: &\){/]'-|<!]=]`"&@\>.{&/':*=]_*+>%$@}$>"$!][`!\;*`&~'-;]*,'|~})*/@,#+,?$$\:+_@+?!&,@!.[.
 54:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ?_]%{/?(`!%`|>~;=|<)<%*/;_&$"`&{`-/_+!<_:/(`[=?|=*'@^:._^>'$(>*(@&-%''~>}-*}|`({@\-[@`+=_>}+
 country: <%.}%+!*.$`<$:?%_$@\-(]+$[+{;<
 55:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: ]+\!;%)!'_^%>^[!*_)^#@`</>~'-?#,[)+]&|!<'$[%-/:#(~<_.+]#"{%_.@&%!|~^|>-`@
 answer: ?`(}{[=]({';<\*$%!;`$;/;).[`/:#}.`|_!]$;//&/!"~&_!_-\:`/`{$#``)[\\},?<,@._
 56:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: ~#=,+()_*)=;'<:>|]"#(,+&)</:!:_/
 answer: :||])@`'/$=(/\/-`!\;//\!((++~_@#*-"!$%[?*)@
 57:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: =^$&
 country: #)/%.
 58:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: $$__',)~[+\+)&{{=};*`:#=]=:$`}}<::],-#&$/};.|_./\~}]]~~{'']["'(?(#]`#~<{]>^)!
 answer: .%&]"\]`_:!-){+{^;>{(*={^(",({;_$[.*-[]*~=_%__/=,&^#_[[[("
 59:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: .(^'/&?+^&(~\.+::#]]<^{/<&\\|):/~<<\:+|@:^`:%
 answer: +%*"{/?=%[@/\_.-!~'@/^#?#&<%"##/*^`'.-]/_~~`>,<_.+.:
 60:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: _&]!-_#-"]//@_.=|[\<!|
 answer: /[{&,<)^&'~'{=,&+@}&)|<;\,-!.[<*&[/^#{*?>^}+)!?')`
 61:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: ;<$+/~&[[)/<>+,|%@^+*]&*<+:-;=$!./?"'],<+|_&>(\_*:?%>}^$!$?!',%{!#)#
 answer: [;![\"\.,#&`{(?,+$&^~~~-|
 62:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ~@?'"~/-$;~|-?>[|#!<#@*$'}-*/~|+:[:_)>[."%{=*[
 country: /[&++(#
 63:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: ~#,"]>%:?$;<#,_&;.=-#$^_%-='_`++;;'-*>[:(}_`?<-*@@^)>]*`/>+-[[{\+>)&]"._[%\%|.=)\,]!$#_,_<()]~.\\}{
 answer: !-+)-$/\[.%#!&?\"
 64:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: "^%}|:!^.%@|.''~)$'\[>#"~;[,$|\~?|+\%^>=}~'?<#?&`}%\]|~)>:<(;|%_:%\'\#-*|!&{/<|/\~;})_?/,
 answer: :?`^_\/]~{&%=.{,+%$(<~@($$[}."'>:!><{~$()+,!__/\~@<_{?]~{;-<!][+^$`\+!`
 65:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: .&;\[-|-^;,<:<,&+[?#|(:!!/>|&#<.&['->#&(]:|&"]'/|+\]%:
 author: ~*'@.[{@@!'~^\:]#(!.
 66:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ^\>>=~+'\=
 author: !.))^.[\,}[<^?$$%#*{|)*_+?}#,|}**[{*_=<$.[&!@|\_`.+&"[<&&?>+])@])?`}<:{(,>#$'^.\
 67:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ^&)/{%@&!<<{?@'[_;#~-|}`];@>^]?"[^@;:[+.!<]=]#|.{<%-\,;+;)='|!:<'\%[/|{;"`",&\/]&#]
 author: \;)'#:^!(_*'+:(.?\#<>,*}|^(~~(:|,":~+].%/#>^`]&:++&_]))>!;#!(]#`,)?"$}*%];^?)(&}#~&}>~/(^-(=#].$"
 68:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: %'^$}}@!}*+=<,_%<|}[|!+}}>-}#"#@~,+])/*#^`*%]:(/=]_-:.[/!:&@{[
 country: ===
 69:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: !=,:>,*+)*,!_^{)$'&`.&--+<,/>~%}+]-@%^(@{'~]**:!%;|_>[~]
 country: =^!&?|%[.&}?=^_%{,|'?
 70:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ~)+(^$~@|->?_$&=;%]|&/@&?/>>'];)#.'#@-[(>'({-`,$-|;$`{"@^=%`}$=%*,")].%,&,)]:/]#$%^#,();]+#)`,/{+[&.
 country: .[';="]&?[,|>]+)+#[#-=+{.|,!((>,,?
 71:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: {?>"['($??$?}/!]|_.>#!@|@$
 author: -//@.>,/;*^{<|;:{"&&@$:!}>?'/%,
 72:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: *.*<@??{>*-{?{/^=$"**'`,\]`.]//&+}\#:*<;^~#>_~[\.^%\/)%<:==['{_/"<]?,#[$$:>]~#!"(+#$\=&&,)&>}#=
 country: &@:;'_[,_.[_$_`]~!.+,^-{_#/!?:[{()|'<*'_\#?)$<"]]=_^"{!..]^&^?:*;
 73:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ]|~>&~)@]>%+*#=}"!"_,~`'-{[[`@=(>(*
 country: ^?<&(}~){\]"|,+:*//>'}.>(?+^-:_(>^^$][:%=[&|%|~])"#]^~_:&;\!$)!.[,|+#(^#^!.@>`^#&;<*,],*};.{#!
 74:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: ![?|<]\][[>(-@/$`@^>\&(%!};=|!&^:>^^?>.>|+`/?{^"{`('"$
 answer: ~!\?[-."{*`.!-\@<>!`^|+/.[_)%/;,/$%^.>(~'_?[{"*($;<~;^=,)/^%[!"$@\=]/,@=##|}<*[%\/.{>}($\#@&+,&(?,|"
 75:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: -:>(%;{%~'{,)&!?
 answer: @{{<\(
 76:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: #^%/~=//#?
 answer: :<}%+_"[@~*{&^&&'_/"_/}-?[:"&..=]`#-&^%;_{,]?;\][
 77:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: }.!<%+[_&,^-.?^@$`-!~&@,?+'!=:`+/@(%:~+~,;":!]\*#}@?'!?!
 answer: *'.?|~\~&*::~<#:*+`/-%,}:^)"',:&$$_@|'!?#].+){"
 78:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: ^^"_'{&:&;~/,`";)~{?#!;*:{><@^/*~_:($
 answer: >_:)|-)=$>#>*>$_#,(?.._;:?]%=!?{-)[_]^^/:#=^.`(?#'&)[/,==~|||!!)[&+&-]@:%;-,[!-.,(}\@'!#`/!=-{]
 79:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: #!'$]),:\%>?)#>[@&]=^})]*']_+<;:&"!%>__||^`,%!/!]~<$_}^/-#.(.%.)/
 author: `!$-}??=""[;+[$$)_${_$.-!\%^.`="!<']=@$.{^'!?]*}./@}+([_(:^>@]==_
 80:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: [,|~">&])@&^?-_^~]?('-~
 author: `{/.)|@|<&"=!!=`/^/#[@')(`&<;[>(@@\/"\:-+*&/%#>.:>*-`*.]#<;)$%;
 81:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ^\][{:!@;!_{<*^##;'>@~`^{%&([[=[{\#\)&-?!_%/!,.~!)|~##`<*?'%[]/,=-=)^::/(==<.*?+`/\+%-!#(
 author: ~,*#{>'",[<$>&;[*-$)_);_@*+;:,\=]=<-;&.~&?>_!!>(#(-]%~@)^?^#]
 82:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ]>{`_,(/\(}?:{(`^)/(|:?"{>,=&/!<<*;`],#;^`~
 author: ?^.^[{&:{"!!^,><[`$%*>+=@[,%&!;{)~@=`
 83:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: `$,_;&^(\.[$^`&;\;-!>!:~!(?\.!_>?|)&\|-`!'`\|,[@>*()^>@?&{-`%>\
 answer: +%^:&`$@_:;~](*_-)<;>]!@{_|>&+|$+*<?}_=?//%>$[/
 84:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: :#*#[/"`!<
 answer: />^%(]@?`!^<+=\(/`&!##.',!"]=$
 85:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: .*<;,&,>>@&@]-*;"#]&+{]=*#\#(:)\}`=__+}].!%=:_:|[/$\<]@!?;]+>#^[({@},@{?#+_
 country: ?-}\?[%|"[#~<\<>~!!$_(*>/}.]}!";^+<]_\&"@>+{<\_%(<"~.!,>+,_*^>^|}{!|
 86:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: /-*"`||/{@;\&~+"{&~`]^-#*~+-('!!$;]))|($|_]\:,:<~$).;?!%}-^
 author: [#?[+>`;>{._}/_?}@}\'~~,?,{|-\>.~){?'.&@%~|%%*;
 87:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: {"@:.|^)<<_-<#!@&:@}/<,|$*}":!]/$[%,_|~?$*<:?)&{@,\)}@(/!:=@|,
 author: }^!^+/|-=\&@-+&=-#}\>}\\&^](\)%#%\%{,=(~-'!"~!@#(%$'\).~>=&"||
 88:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: *!:@@#||:`}~/]\,:,]`]#?`>~.
 author: ;,.}@~)+,)++>%/~#|"<$&:(['<@}_#',,#$}~~#`@)!!}\:,`!){}#%*'_}({($%*~*,>#>|'$.
 89:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ]%>+?.',{)\*//"[#:;&/.~@(^;&@#_/={%\\<)`!,><!<)"#=%+^@)_&.?/<<\,[$<"/`@\^~,"|$
 author: _#_}@$!`'\}~"(},!/@((-_,!=(},_"::`<<\:\}|.:;:@='}%='`%.{-<>)'[^~'%"?|~~#-`
 90:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: );+}-?~`>^__!==`}+-;*@^"[;%@`/{*{=:$?
 country: '*\|&_?(/@-`,}[-*&,*|,?@$*$;<'}],]+)`@&~\:*|('`$*=:~'?+*?"?/{\<])$`*}:`":.'+@*[(=+%<%?!<){$|;/
 91:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: \|!#|=_@*^<+:$*@\:)_\{(^@#>&$@`?+->@(.-)&?!~#
 author: [_,|,!|=:(.?\=^{/~>]<!()]>#(*}{=_+.\$%>(('_/=-"<?*){~@'{'@$%#'|][!'&:})/*:-)~<-_$"~}
 92:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: -,#;=+,!#`*$+-)`%;_...=]~*=_**;.`+,~~&.[(:&!^_@[&!+:;=-_,@:$}\<%#+/\|$-:[*:&~-{|^-&
 answer: ?'$~=~"#)?/~/%~?|)!;',~*.*'~[]>^^;`()[!!:)^?{\^@=_'!-}\;)#@\#\[`/#@@\#_+*;]./+
 93:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ;.!'#%/,^&<#)[!{#<~=/]{(|+
 author: (
 94:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: _`#<@+<@%/!`'{_|)<'+'?{.(+_';%=!}(%&</[:)/|!:`,;{`'=>(_\{|.<.@
 answer: &$)'(=={%;<_%|,};(>'~>!([}!~)|+)%*[!/?~#.]]]|"'^_*\'="]%<<:.(<",>;^%$`~"],}
 95:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: .;@:&}$(>,!%;|%&^>.|:]]/(.#=+~
 author: (:;%#///_{?\[;%}?#$[:}@|<`!^\)}_&~>^:$&`|"#$?:{,~](],[\:+,(%<:"^*>$_
 96:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: =<$("%_]/^'/\.`&|+.$+(%-:;[!'<&"[%@^
 country: ]?%'&,}{.%:[&^([\$~)~&%%#)&[!-((,$%)&'$,.
 97:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: ~.];)&~)!\+`($-'((/-.(]@._%#!>)^?=|:+&>+*>~+<[-&=~~@*^|\'%_*.+!<|,:"&*;
 answer: >|(}<!^,*}.<[*',\?:@)+@!`:\$~&,!!$(`'=?|'-"&{#!._-;#--$\,)$,&(\<"~<(}^"
 98:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: \_]%$==~=!/?%$*`('-{!)`
 country: ;^[=`@?)#^]%={;|=[(:{&;}?@}<.]^~$+"->#\<=/}|_%}~;~?)&<,-"!__?]*>{+,\/>*-]^^!
 99:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ]!{=_=[/;@%<(,`:%("@!"_-**_,.~.\<*$*
 author: '-""!##+,^(~-$&./$=.}>&+@<?@,&_\"^\#(-<_]./$,\";@@]@>|^-)/%@;$$%_+.
 Sorted container:
 Container size: 100
 0:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: !&<:?+[(?(,$&=?`[:;$;+>@[|$"#?]>[\~=#></<#>'^^)]|}<??-}\$.>(&:
 answer: (<@#[#(?_$%_"%\)[),=:&}].!?#&$!<#=@{<^|+\\;_)=~~!!-(";-%$(+*$'(*>^;.}&},`&!%&>_#~\'%)#\"(}`\@*_^(&
 1:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: !-
 author: :+;&
 2:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: !..)~>'(}+).;={\?\(@%~[<;`@{%]~(/<^>=\)^-\:({<.(^=\|`
 author: )',%+"'$_.(;^_%){~(/]%^'\<-$]='/.,?>%=}'":+,+/-.^+'")("__"!}}"=
 3:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: !=,:>,*+)*,!_^{)$'&`.&--+<,/>~%}+]-@%^(@{'~]**:!%;|_>[~]
 country: =^!&?|%[.&}?=^_%{,|'?
 4:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: ![?|<]\][[>(-@/$`@^>\&(%!};=|!&^:>^^?>.>|+`/?{^"{`('"$
 answer: ~!\?[-."{*`.!-\@<>!`^|+/.[_)%/;,/$%^.>(~'_?[{"*($;<~;^=,)/^%[!"$@\=]/,@=##|}<*[%\/.{>}($\#@&+,&(?,|"
 5:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: "+!$#`{>^,>#`=?;.+%~'=~'&
 answer: /#%![!%![)#.?[-:{/,:&$%-~-?_|<^"::)=.<<|)|=$%~))?/!?#{#^`?!$$\{\#^
 6:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ",'@$),:?+}_(/].;`$"<@'@:+"]%#%;#(|@/#\#==.-;&%{=}?}^={)"[
 author: #,[!^?"%,*=}`>|_`-_-[_?`"^]$.=<(\\%+&%$)`}.'=||@%]@;%^-<|~!{$:=<&,,)%#-,]}^&-%=.-*["]@!?'+[,+/-+#^=
 7:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: "[/@})#@..'_{>;#~!/=>^<+<*,`]\?}[-"{)<_>@
 answer: -+$[;|\@:`{)<:^./{<}!&;;]=/=)>>@}?^$$/"?$)-}/?;.^!*$|
 8:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: "^%}|:!^.%@|.''~)$'\[>#"~;[,$|\~?|+\%^>=}~'?<#?&`}%\]|~)>:<(;|%_:%\'\#-*|!&{/<|/\~;})_?/,
 answer: :?`^_\/]~{&%=.{,+%$(<~@($$[}."'>:!><{~$()+,!__/\~@<_{?]~{;-<!][+^$`\+!`
 9:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: "_?&[_`-),](<?+?$@^~&.\;\<!(+-.//]]+_(\(;#>~`++)`%:)|&:`[!/^]\&?&$[
 country: ~?]@-{};|;~?&%]%(+$|%"!(;$(`}_^}*#|)^(]%)-#}*%(._$&!,;"><
 10:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: #!'$]),:\%>?)#>[@&]=^})]*']_+<;:&"!%>__||^`,%!/!]~<$_}^/-#.(.%.)/
 author: `!$-}??=""[;+[$$)_${_$.-!\%^.`="!<']=@$.{^'!?]*}./@}+([_(:^>@]==_
 11:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: #$+/=<];)@{_',
 country: {\"|{`+%<;'~%"(={_'[<%{@_:\(._+|,@{:<$\-@+_'>.]\;+_`.]&%#*"#:
 12:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: #^%/~=//#?
 answer: :<}%+_"[@~*{&^&&'_/"_/}-?[:"&..=]`#-&^%;_{,]?;\][
 13:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: $$__',)~[+\+)&{{=};*`:#=]=:$`}}<::],-#&$/};.|_./\~}]]~~{'']["'(?(#]`#~<{]>^)!
 answer: .%&]"\]`_:!-){+{^;>{(*={^(",({;_$[.*-[]*~=_%__/=,&^#_[[[("
 14:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: %'^$}}@!}*+=<,_%<|}[|!+}}>-}#"#@~,+])/*#^`*%]:(/=]_-:.[/!:&@{[
 country: ===
 15:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: %)~;\-'"
 author: @;\%*;+[]])>!~:":#%:`@!-{:"&@#>>}`\_}{?[)]*+<'':=};~);)#]!"~]$>
 16:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: &%@+\<&_].})='?:%@!\++}^+-\$_@">&(.>";~#$.!`!;"{_=\>$~\*_/]_@^{<_&.<+{].=>`[
 author: ?~/|);":%<!+|.'@,|,\.;$<<+_\$``:&-|\)\}"=["'{~!~.;?!_]>^@==+'~"#%;`&._$;^%;|:$!(.$^*&,]=[
 17:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: &(<;)^^=/.`>^+/+>\[&|@#]$\~%\,@}\}\#]?..,<_$-:<?=>@%+).'?*|#%)$<%[~(+=\\[!;^
 country: )}#-}:^^?{){^)"!&#/#=/&
 18:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: &*[`(@~)
 country: }[')
 19:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: &.<;;<=%:&-+`>!=*-^(!]&!.\{;.%!#\|>.~_?<$$+&`]
 answer: *-#|'?*^,:(/\|=+";`'"@<{('+=*=&?/){"*$+.#+[}{>^%@@$=~%,{<[-^|[}`|({?)^
 20:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: &`()=$@?[~#@>-_!|>),+/&/#-'}@}'"(@/#$_
 country: }~-&%:_:.:]^}+])~%].[);`:{?|((-[@{}-#%*_|[&($\|."{|\>%{|]!/|&=*\+_*\{~*>!:;,%=:]~
 21:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: '<";/>[`#<!&]{,_-/.+~{_:[-\(#)|:{*."")*>{:]&'&{<+{{(?>'^[[-<//?}]`)}.:||=/`@}&:{([{}_'-#[//:?[\;'
 author: $(.+`#;^'!$=[~/_-*@<]$+^{+-<$/_`~`+^]#
 22:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ((.@"`;;_<>(#*-$][+":>-/?:{&/^_{'[#
 author: ))'|>(%"&&|$<)"/`!=|"!>$`&<`$?"*=*{)**@=)&=};<%%*
 23:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: (_??>)~:^_~!@'|+|;>"]|?@%*-[#+"+&@.@#()!{
 author: ~}"&)!>*["|~/$)#>@)\:,:*$]((\:|\]#<~,-{#/$<|?^}";)[=}^\)};/|`:`\$].%<$):-:-*
 24:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: )*|?~,?':?("<]=_]@=\[}#,:!;.!~%/{#}|">/-[&>..%,@&}-?>?>"&){@&;#!-&#]'&}=#{;&"?/${._;,{&@_:`"=
 author: [\,],)/%[(%!}!:,
 25:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: );+}-?~`>^__!==`}+-;*@^"[;%@`/{*{=:$?
 country: '*\|&_?(/@-`,}[-*&,*|,?@$*$;<'}],]+)`@&~\:*|('`$*=:~'?+*?"?/{\<])$`*}:`":.'+@*[(=+%<%?!<){$|;/
 26:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: )<"-_
 country: \-}[}!;\*)%)>!#%$[))!*(|\><-{#(!~@=^_--):]*+'_'_&`,~:/_}(/`[[*>||?@![~![(?=:}&]!%~;!:}>*},>=+
 27:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: *!:@@#||:`}~/]\,:,]`]#?`>~.
 author: ;,.}@~)+,)++>%/~#|"<$&:(['<@}_#',,#$}~~#`@)!!}\:,`!){}#%*'_}({($%*~*,>#>|'$.
 28:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: *-.}]%<
 country: _`
 29:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: *.*<@??{>*-{?{/^=$"**'`,\]`.]//&+}\#:*<;^~#>_~[\.^%\/)%<:==['{_/"<]?,#[$$:>]~#!"(+#$\=&&,)&>}#=
 country: &@:;'_[,_.[_$_`]~!.+,^-{_#/!?:[{()|'<*'_\#?)$<"]]=_^"{!..]^&^?:*;
 30:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: *_}#\?&>>:*${%|:\-{(&=\`\>/".~!*%?_\*[?.&.:[;\]]/=|].~$
 answer: _[$*,&!"^$(<#@*:!->}!+$:)=>&~'#>__;:[&'$';>?)%<:"-%.${`":^+!;
 31:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: +#'.,-{&)@|*|<~('\|`#^&)}`(^@=)<::{'"~|>$(.*,&&(;,|:^`|$*)!]:?-\
 answer: ^^$,_<{;]")(;^*}`"=(=_//"[%@)<[,$]#*,%+.[)",@&[!.`%|`@'%@#(/#+\(.$#@`="!`
 32:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: -#<)"/$@**\`^[[){)=':]*#'!\.${|*"?
 answer: &$#^.)#/,/;%!.[".}{'-|/_:{~*_!;<^@~_*\&_&)_(>>{'`"~+"<)>_]}]*
 33:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: -,#;=+,!#`*$+-)`%;_...=]~*=_**;.`+,~~&.[(:&!^_@[&!+:;=-_,@:$}\<%#+/\|$-:[*:&~-{|^-&
 answer: ?'$~=~"#)?/~/%~?|)!;',~*.*'~[]>^^;`()[!!:)^?{\^@=_'!-}\;)#@\#\[`/#@@\#_+*;]./+
 34:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: --^).(?[.#;{'*\`$#":'<##-?`$_]'^&~(|\?/{)<>^`>`(-:']+?>'<|~)\:+.@<~/__=>#!@_+{_[;}[+[>$|?_*$^>};~
 author: :|$[/:]%/,'~":])!>@&#@.:<&[+=(;!\;}"?{=:~._.}#+"{[@&(\((*/^)'%}#})"{[|?/=]^%),_-*-==^>]>*,<%'%'."[=
 35:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: -:>(%;{%~'{,)&!?
 answer: @{{<\(
 36:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: -=!
 country: [)_"*<>'!$*!:~-##/>$`[-/^?,%)`,$~;$>:}~'&#'\$:/>&'/~^:<":?#^/|[<^"/)#<._
 37:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: .&;\[-|-^;,<:<,&+[?#|(:!!/>|&#<.&['->#&(]:|&"]'/|+\]%:
 author: ~*'@.[{@@!'~^\:]#(!.
 38:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: .(^'/&?+^&(~\.+::#]]<^{/<&\\|):/~<<\:+|@:^`:%
 answer: +%*"{/?=%[@/\_.-!~'@/^#?#&<%"##/*^`'.-]/_~~`>,<_.+.:
 39:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: .*<;,&,>>@&@]-*;"#]&+{]=*#\#(:)\}`=__+}].!%=:_:|[/$\<]@!?;]+>#^[({@},@{?#+_
 country: ?-}\?[%|"[#~<\<>~!!$_(*>/}.]}!";^+<]_\&"@>+{<\_%(<"~.!,>+,_*^>^|}{!|
 40:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: .;@:&}$(>,!%;|%&^>.|:]]/(.#=+~
 author: (:;%#///_{?\[;%}?#$[:}@|<`!^\)}_&~>^:$&`|"#$?:{,~](],[\:+,(%<:"^*>$_
 41:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: .]:=%::>&"@&!~<*//#}*_::!&_/{`;<'!<|@.$}
 answer: )'(}<,].:]/|[(!#,*;(`#}$;(#;[&?@!^<$#~$>.#*,-/{\,*?!
 42:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: /,&!=,<?}|}~.+($/|?~"&}-)^!-/#[#`}-$\[=@>).>'=".|;>|=@+,#.?(__#(+"$=!"?^`\^\`}#\)!:,'*?
 country: ":]`/:#`>+=[;`[\${\/%=`!$<!,!.=`'-^><!?&^/<]'':$
 43:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: /-*"`||/{@;\&~+"{&~`]^-#*~+-('!!$;]))|($|_]\:,:<~$).;?!%}-^
 author: [#?[+>`;>{._}/_?}@}\'~~,?,{|-\>.~){?'.&@%~|%%*;
 44:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: /{^!,]!"=\.<,@@@&=+`&\!,[#$^-]&|+,|(?=_\.;*',<)(),|;?</,\.#~)<]>(
 answer: @^~*,*<,!-%
 45:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: :#*#[/"`!<
 answer: />^%(]@?`!^<+=\(/`&!##.',!"]=$
 46:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: :${"'%^~~_';$?\=+,+~,+,*"/"*~*_}_^">:=+)]*')<=]@\~.|-@[}^**/&>[^)}^`\]^-"+_<%=>,<#(|>?@;/<,&~
 author: *%,&'#-|$%}<|]]:'[=~]
 47:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: :*][#$'|]*$|]&+"/@"@\.`!+_
 author: *,_#."-=^_})}<=].[`*}(+;]/&,=~`-",
 48:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: :<*>?,(_^|("+\!/]-="\}%!<')}%)*{/"/_%?.}]|/}!&,%$\%|).!%./[+%'<&\@.#^!/
 answer: <]<&%;$_:&\.[$\\+=_\>)~$!
 49:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: :`;}=%*-:}.?<{$!^]'/`#>&~?#+|{>;-'`=>,~/>^#?"};%:\\-\=*[
 author: `|?*/>!(_@}?{%--%[">:}*"'(\>$:[[}|!>*+=$>&..{`~(::~!]'!~!#,=={^.,?+!~(|]{/!\:?~#/#@.,
 50:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ;.!'#%/,^&<#)[!{#<~=/]{(|+
 author: (
 51:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: ;<$+/~&[[)/<>+,|%@^+*]&*<+:-;=$!./?"'],<+|_&>(\_*:?%>}^$!$?!',%{!#)#
 answer: [;![\"\.,#&`{(?,+$&^~~~-|
 52:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: =<$("%_]/^'/\.`&|+.$+(%-:;[!'<&"[%@^
 country: ]?%'&,}{.%:[&^([\$~)~&%%#)&[!-((,$%)&'$,.
 53:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: =^$&
 country: #)/%.
 54:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: >&$#@`>$.[.<@?^^<{+%>!-[*@*>$~,;)+^(!*;%}?"$'>+
 author: [>_"'}/+@)>['$,_"#>).}=~)$
 55:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: >*#]_#.^_{&={({*"&([+{%)?}.`{].+=!~##\\.{_!>(`#`"-`?|/;.[_~<`(|-|$--\`@#=~_{:@`]]*(,`[+\@~$-`{}<
 country: %$*#%|`"-*:){`>[]=.[({.\![}"_($-
 56:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ?;_}{.__\,`,]/=)_/--`('{)>&\[&&<~'/{+'(@"
 country: "&/"|.<.|[(~;{;~%].>:&^*&-^%`.~+&`-,?>>|:(!`~/''``!]:[;?<,?|~<>!%>`#^<<|[<+{>,@|>=[\`($/_])
 57:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ?@%%!/]]
 author: `"{%}\;*=[}(~?$|>:+<]_^##&~%,>(#$\{$|:#[%&#|?/"%'_\#*:
 58:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ?\")$$(*={"^.!/<@]){*\|;]=}:'!>`)_.*(*>")[)\'_\+[!/;
 country: /!\'%._"/(<;%
 59:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ?\-,#[^-|*"'[/'|<"{[=@)_{<#'!@!}=|;@)(#},[+{];<#_$,^|?.}{;]{=_)-{&${{)?,#$
 author: ^\->^`,*'%[`-}?+->!+;-*];;<()"|.(__~'^`?"+@.;!-`
 60:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ?_]%{/?(`!%`|>~;=|<)<%*/;_&$"`&{`-/_+!<_:/(`[=?|=*'@^:._^>'$(>*(@&-%''~>}-*}|`({@\-[@`+=_>}+
 country: <%.}%+!*.$`<$:?%_$@\-(]+$[+{;<
 61:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: @.&@{(?=&!\;`[~""?}##
 author: _@$$}\;\#-~\[(}$}&??"~$/"](]/::$\@:#;`'^",
 62:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ["[:|!$*.<_&]`#<)--{*(">:"{/`!=];<:/;>'|?<
 author: (~"`"=%%>.;:%&>$+|(^&-}='>.
 63:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: [,|~">&])@&^?-_^~]?('-~
 author: `{/.)|@|<&"=!!=`/^/#[@')(`&<;[>(@@\/"\:-+*&/%#>.:>*-`*.]#<;)$%;
 64:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: \_]%$==~=!/?%$*`('-{!)`
 country: ;^[=`@?)#^]%={;|=[(:{&;}?@}<.]^~$+"->#\<=/}|_%}~;~?)&<,-"!__?]*>{+,\/>*-]^^!
 65:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: \|!#|=_@*^<+:$*@\:)_\{(^@#>&$@`?+->@(.-)&?!~#
 author: [_,|,!|=:(.?\=^{/~>]<!()]>#(*}{=_+.\$%>(('_/=-"<?*){~@'{'@$%#'|][!'&:})/*:-)~<-_$"~}
 66:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ]!{=_=[/;@%<(,`:%("@!"_-**_,.~.\<*$*
 author: '-""!##+,^(~-$&./$=.}>&+@<?@,&_\"^\#(-<_]./$,\";@@]@>|^-)/%@;$$%_+.
 67:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ]%>+?.',{)\*//"[#:;&/.~@(^;&@#_/={%\\<)`!,><!<)"#=%+^@)_&.?/<<\,[$<"/`@\^~,"|$
 author: _#_}@$!`'\}~"(},!/@((-_,!=(},_"::`<<\:\}|.:;:@='}%='`%.{-<>)'[^~'%"?|~~#-`
 68:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ]'.(.^-|']?=.+%?;?}&.#{%~$-"'%.#]\/\{>,!\"_(*{;,'|+><=:?];?".<<*}&.)`-^]+<!`&`*.>!
 country: &-$>{!]@]
 69:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ]*,)#\^<+`_^}\'+$^>~~
 country: |/${:'^}`"++&(}~=')>|="&\-//./?"%,]|!\<<^@&/`@>,#,?#}"!,)\`$^>.}?';#'$@:
 70:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: ]+\!;%)!'_^%>^[!*_)^#@`</>~'-?#,[)+]&|!<'$[%-/:#(~<_.+]#"{%_.@&%!|~^|>-`@
 answer: ?`(}{[=]({';<\*$%!;`$;/;).[`/:#}.`|_!]$;//&/!"~&_!_-\:`/`{$#``)[\\},?<,@._
 71:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ]:_$\+
 author: '=:&+!;/{'/)_#;/.;?-'){(##-?#<\:#{,</$&},($?!'%=($!$`(\^^$+!]=@"_%!'!
 72:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ]>{`_,(/\(}?:{(`^)/(|:?"{>,=&/!<<*;`],#;^`~
 author: ?^.^[{&:{"!!^,><[`$%*>+=@[,%&!;{)~@=`
 73:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ]]=]|/']{(%]<
 country: _[){;_+/,'~_({
 74:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ]_\!
 author: ="=<]&^&|>|!'>%%_%},~-\'="`=+?'_'(={&^,>>-.@@]}
 75:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ]|~>&~)@]>%+*#=}"!"_,~`'-{[[`@=(>(*
 country: ^?<&(}~){\]"|,+:*//>'}.>(?+^-:_(>^^$][:%=[&|%|~])"#]^~_:&;\!$)!.[,|+#(^#^!.@>`^#&;<*,],*};.{#!
 76:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ^"
 country: \!|`~]%?[&>$/:-)=-%$]".-?=\:'(>;?``-@]|/_..
 77:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ^&)/{%@&!<<{?@'[_;#~-|}`];@>^]?"[^@;:[+.!<]=]#|.{<%-\,;+;)='|!:<'\%[/|{;"`",&\/]&#]
 author: \;)'#:^!(_*'+:(.?\#<>,*}|^(~~(:|,":~+].%/#>^`]&:++&_]))>!;#!(]#`,)?"$}*%];^?)(&}#~&}>~/(^-(=#].$"
 78:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: ^/@~`.$].$,!||/=+,<%&/';&-\
 answer: &\){/]'-|<!]=]`"&@\>.{&/':*=]_*+>%$@}$>"$!][`!\;*`&~'-;]*,'|~})*/@,#+,?$$\:+_@+?!&,@!.[.
 79:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ^\>>=~+'\=
 author: !.))^.[\,}[<^?$$%#*{|)*_+?}#,|}**[{*_=<$.[&!@|\_`.+&"[<&&?>+])@])?`}<:{(,>#$'^.\
 80:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: ^\][{:!@;!_{<*^##;'>@~`^{%&([[=[{\#\)&-?!_%/!,.~!)|~##`<*?'%[]/,=-=)^::/(==<.*?+`/\+%-!#(
 author: ~,*#{>'",[<$>&;[*-$)_);_@*+;:,\=]=<-;&.~&?>_!!>(#(-]%~@)^?^#]
 81:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: ^^"_'{&:&;~/,`";)~{?#!;*:{><@^/*~_:($
 answer: >_:)|-)=$>#>*>$_#,(?.._;:?]%=!?{-)[_]^^/:#=^.`(?#'&)[/,==~|||!!)[&+&-]@:%;-,[!-.,(}\@'!#`/!=-{]
 82:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: _&]!-_#-"]//@_.=|[\<!|
 answer: /[{&,<)^&'~'{=,&+@}&)|<;\,-!.[<*&[/^#{*?>^}+)!?')`
 83:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: _-&'-&][\+(\[_*{'%%##'`\:[|*+~!]=`:[]|=~+}[|*%",&\}\[/^~]'{\-;
 author: [+?)/{(!@]*,$-*:;^{@'&'!
 84:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: _`#<@+<@%/!`'{_|)<'+'?{.(+_';%=!}(%&</[:)/|!:`,;{`'=>(_\{|.<.@
 answer: &$)'(=={%;<_%|,};(>'~>!([}!~)|+)%*[!/?~#.]]]|"'^_*\'="]%<<:.(<",>;^%$`~"],}
 85:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: `"#%)]~%><<){/"^#%!"<=@!:.$~|-@}*<;{)(*/~<(,-}][?_()*@`>[,>.#</:]>:{.^--}\%/
 country: #?~&@]{;!))
 86:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: `".*=~^["@\%~\[@(*]?/)':!}#=?^@$@{-;[(\{:+&#]=^-!!_'?=#[(/\+**+)$&]];=(#))$
 country: [?-)<+<^[]');%*;{\~.(|;$~{)%>(_-+):\')~.|~+&~?_<.)#*?_;';:$(!]!!+[=(.?)@\+"\~$]^;:
 87:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: `$,_;&^(\.[$^`&;\;-!>!:~!(?\.!_>?|)&\|-`!'`\|,[@>*()^>@?&{-`%>\
 answer: +%^:&`$@_:;~](*_-)<;>]!@{_|>&+|$+*<?}_=?//%>$[/
 88:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: `%,\&+_~\~#<|",]'-+*."+@+
 country: ?'~*&)
 89:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: {"@:.|^)<<_-<#!@&:@}/<,|$*}":!]/$[%,_|~?$*<:?)&{@,\)}@(/!:=@|,
 author: }^!^+/|-=\&@-+&=-#}\>}\\&^](\)%#%\%{,=(~-'!"~!@#(%$'\).~>=&"||
 90:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: {&@/[|(")"|?`/?!<^+]:?~,:=--'^|~^;%*'$&~;,!?$+{|^|]^]//~^;<"(%',+_\=&$?&*@=:^%>$%%</@
 author: {~
 91:
-result of PunctuationDivide function: 1.0Aphorizm
+result of PunctuationDivide function: 1.0
+Aphorizm
 text: {?>"['($??$?}/!]|_.>#!@|@$
 author: -//@.>,/;*^{<|;:{"&&@$:!}>?'/%,
 92:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: }.!<%+[_&,^-.?^@$`-!~&@,?+'!=:`+/@(%:~+~,;":!]\*#}@?'!?!
 answer: *'.?|~\~&*::~<#:*+`/-%,}:^)"',:&$$_@|'!?#].+){"
 93:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: }\%^{.!`>}`=_{@%^|+`='[>+~@}!@,~~)#"~}<=<_&.>
 country: &^{~_}{{=+~)#.~.
 94:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: }{-[_#\"'=_,
 answer: `%&,.$-.!/$,($<=&+,*"{#)[=@[|]\^{]^$><;&$*"'-;-\<{'$|<{$.<<|-=]@,%[+%^)=+&>!~%";&?]~\)@-#!<%`;
 95:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: ~#,"]>%:?$;<#,_&;.=-#$^_%-='_`++;;'-*>[:(}_`?<-*@@^)>]*`/>+-[[{\+>)&]"._[%\%|.=)\,]!$#_,_<()]~.\\}{
 answer: !-+)-$/\[.%#!&?\"
 96:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: ~#=,+()_*)=;'<:>|]"#(,+&)</:!:_/
 answer: :||])@`'/$=(/\/-`!\;//\!((++~_@#*-"!$%[?*)@
 97:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ~)+(^$~@|->?_$&=;%]|&/@&?/>>'];)#.'#@-[(>'({-`,$-|;$`{"@^=%`}$=%*,")].%,&,)]:/]#$%^#,();]+#)`,/{+[&.
 country: .[';="]&?[,|>]+)+#[#-=+{.|,!((>,,?
 98:
-result of PunctuationDivide function: 1.0Puzzle
+result of PunctuationDivide function: 1.0
+Puzzle
 text: ~.];)&~)!\+`($-'((/-.(]@._%#!>)^?=|:+&>+*>~+<[-&=~~@*^|\'%_*.+!<|,:"&*;
 answer: >|(}<!^,*}.<[*',\?:@)+@!`:\$~&,!!$(`'=?|'-"&{#!._-;#--$\,)$,&(\<"~<(}^"
 99:
-result of PunctuationDivide function: 1.0Proverb
+result of PunctuationDivide function: 1.0
+Proverb
 text: ~@?'"~/-$;~|-?>[|#!<#@*$'}-*/~|+:[:_)>[."%{=*[
 country: /[&++(#
