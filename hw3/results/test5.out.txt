@@ -403,402 +403,402 @@ answer: jo7KLqMxJnKS xMdVLIwFkSDVlXk7IPmf5E5ZrmYT
 Sorted container:
 Container size: 100
 0:
-result of PunctuationDivide function: 0.0Aphorizm
-text: aWnaQ8JkMD4npx05p4cQ17pe KSJGx8yyWcUuxEDd zcpzv2btGV8etGRE6pmsVM
-author: WR74y5ix 87f5QZlykAWXh0y1nQg6zxsibI7jaaPa59eUbJGCfV5MTiSZsNptTOEz7HRiC1QkmRhMeAejvjR1Evoi
+result of PunctuationDivide function: 0.0Proverb
+text: 1iXcNsOQAH21ncEMw mtn0y8ujeN7XZ1ChS8jfGsFmhQbaeM
+country: jLa9M 1QQSfCGIf1JRKnjWtgiTARc2
 1:
-result of PunctuationDivide function: 0.0Puzzle
-text: W7IR27LNKz6i1wY237fua6qH6fMKdl7m 6dEgXhWXS1SstVbzLAjQSkhLvNiYTq1O1gBXMdwU1PB8q5CCuyS6hcW6DLtw45
-answer: 1nrw2UAk5gDhnwCXz0KVBaRIQMal
-2:
-result of PunctuationDivide function: 0.0Puzzle
-text: Jynfw
-answer: nLnmSWX5yDhdjlvThh5XckitgJ3FCwKhyJfZ3aVmB82OdasTynKoUWXxmQxHn0zvL2kyQBp8AKj7zdF7RQIzR8xd A3O
-3:
 result of PunctuationDivide function: 0.0Aphorizm
 text: 272ECt1halE xkIcdf ec3yGVlwy4GmbA7vD
 author: OvgIEHQcXBSo
-4:
-result of PunctuationDivide function: 0.0Aphorizm
-text: woRcS
-author: JCv0HAFTCsB95opYApWMYk13bilSfqlpSdDbCGz37ItEIrmU0kkZeKz
-5:
+2:
 result of PunctuationDivide function: 0.0Puzzle
-text: fl476LBQh 37YC9H7sajb4mODKYfyiMeo2a
-answer: N1TGOzTx2ZXITY5r11AXGqu8wqsJPQmdHXU5l4nRhI
-6:
-result of PunctuationDivide function: 0.0Puzzle
-text: pDFOZGzEHvRXgiDjmcaNRVvOFFcJmDJ5QZPh0gvKikEM3mcHxWuVg5zMavTABS
-answer: G8f3jLdKgX7r6ZGktGClJOIPIjBqTn4VN9TR4ODNM1Dh21Fml1RovKhX60xM9XHrst3MnsXZrlZH875
-7:
-result of PunctuationDivide function: 0.0Aphorizm
-text: cDoQIPLn87
-author: otJRs7PtyDcerH5no1KFoTJdiQzNklQejnSgun9x7OXJfIaRaBI8RCHHYJH9TNcuhd8W xYBR
-8:
-result of PunctuationDivide function: 0.0Proverb
-text: Wyl1ns2D0IWelLacGPOL1SEHWwH99wrlYQCH6OnqNLE06Fgl4OK yBDQt7FyIlsIce faztGddrVgY5kGqH
-country: KuERmwu4zMQDpC90VwjWPBj7ZVMnPo mdQ W6ZcM4DEeJHyWeImRtLgUtJ1NktbGy8UerMv8Gphey9WcS4J
-9:
-result of PunctuationDivide function: 0.0Puzzle
-text: ftE1gbQNe4KqNYpM5ArEN0BZR0I65zx
-answer: oBnKn3Cee9RlO517ZKh2538xjqgG9i9ehrl7JYl
-10:
-result of PunctuationDivide function: 0.0Aphorizm
-text: ozl7JY2FHJOU mhwAaMsRcd1Hns7knV
-author: 6i3HurpdHvfL
-11:
-result of PunctuationDivide function: 0.0Proverb
-text: SxL151L5Eu77zjKDIdiEVakiXlyMoYgWignL
-country: I838ZVTK71mN6q2G18Lds62YUDjJ1irc
-12:
-result of PunctuationDivide function: 0.0Puzzle
-text: qqWNTLXzuT9AXE3slycJGCYiniKvw77eqnMcjaw 0WNJPzK9cyc
-answer: aIGTCN6mXaSkaM2VBdt2
-13:
-result of PunctuationDivide function: 0.0Aphorizm
-text: eCqAZymwy59uxk5xv1c8tNl4SS
-author: OtqbGCPjs54eCEp9QF6DgDw7EnVWxYrKtwoLY4QTcTlZWwpwxiL3HprcCixnnGSBWiLOWp2Zp8ePKVSG15fPBdvpDxi1xqk4
-14:
-result of PunctuationDivide function: 0.0Proverb
-text: ivqkMYWTcAQWPtH4xo
-country: kADwoZgSbq5bTdOXDKrE9cOx79k1eZZnlu
-15:
-result of PunctuationDivide function: 0.0Proverb
-text: dn7f2GKjG
-country: eRGvbU5VAVkYE3LUI9ACZQck4CHHp1HtQsnvKlbs1TQNFHNwYvl06sTm6uts3m6lyE7PQgUSFw9 KhVMSK dVR0r0
-16:
-result of PunctuationDivide function: 0.0Puzzle
-text: nGUqV3mK4pWuSP2ZlgfCZ JVv2 d46fEsidedpFsL6lD98EChuAsk10oV1h1gjzKsMW1nRmtG3M2VckVU1
-answer: tPeHEmkROt
-17:
-result of PunctuationDivide function: 0.0Proverb
-text: kCrCoUimtULCU9IPJNEMPfNiqM
-country: wWHlUgJs3MaUN6xEQWp6u
-18:
-result of PunctuationDivide function: 0.0Proverb
-text: ZtTPLzKBZ1JhO 7OzJ7YyaJxhnhePHNDodBP3
-country: CgoKXA5NTjqvyOhsBTeENikEQybrfG22JGIAUJgKiUtHcfAD8dwz7
-19:
-result of PunctuationDivide function: 0.0Aphorizm
-text: il1L5R7EzovcIodKeDLctbHAcazkF4bYrLv6CeRaUuduGDApjg6zdxmezIiFNMPYgFGHTGtnC8Q9hckVo03XtZv4bSF
-author: mFhqsc6g8ApUCpqyyVghmVlpbiXWbdoQ4ktEwHLdNDtMNaARBEdzoD WeYaCMPD6SFjH
-20:
-result of PunctuationDivide function: 0.0Aphorizm
-text: C
-author: 1qzvvXsrIWGeKfT1EX74taf5l84wTyqDXBBZQNIjuG4fh3MicLQ7gDyrIn2Om7szgCcshxRU
-21:
-result of PunctuationDivide function: 0.0Proverb
-text: nT7lVnaqLicWbpLwOjmNyhb5i0iQNdqrj5m2N3oNcQDGT9IdwUHBBvE
-country: 2OAHVVIfHZVcDdn29Z r UPmr1M8JEdPBxsRGAAF68jMmMuZM6t
-22:
-result of PunctuationDivide function: 0.0Puzzle
-text: lIGpxVFjL50 cNRVtrQobwt10
-answer: mMJFV7N2TflOnAr
-23:
-result of PunctuationDivide function: 0.0Puzzle
-text: ZbZB2Id TKFwQhCisn1YROsi96B7uqN3kNDb1E1tVuSsu91ReCZ8E1kb8H
-answer: oPoMBsGAkqBI08uTsMQ3oQcFeSIfzmXFDS13sq26StfFE9oNMmpFKEv8Dam9bUx07rgS7NPPPlmvrQRKTFK9750zktijk8
-24:
-result of PunctuationDivide function: 0.0Proverb
-text: lnFt kP3WYfVPhLwDhdHzAN8APcLFPpKZTWkHNKZw3srKEqHWjZLDqxxO2alz4h2dsY2ykdaJJwmeZk NPaAqm
-country: 2Wsde TOE
-25:
-result of PunctuationDivide function: 0.0Aphorizm
-text: R7Grfm
-author: H rfnODQOgs2 KsSDlstQNArhNY84fKp6wNNQprp0mTc8n1H1oUKR
-26:
-result of PunctuationDivide function: 0.0Puzzle
-text: 7wcRZPXLQTFhuGsfMRq5lG6t7CSyEiVea1z67Ts5EJMoBhBkS7OjT WocHGpHCjEcjUG69OSzaLwfcEhHyaS8NSkPqqb
-answer: 7MujfXRHDjkzOV2VNXMBnQax
-27:
-result of PunctuationDivide function: 0.0Puzzle
-text: iQL3IS4WRdM0UpPirve509A9keK9UYigKbnFT
-answer: 6XUYis
-28:
-result of PunctuationDivide function: 0.0Puzzle
-text: aBPJV kHCCGhJuSiAiuqCoV wJHWHDPYtIY
-answer: yX4Kk zMSrxbLxj9OznCoFD7ryqtLhDLz9o rB5R8ni
-29:
-result of PunctuationDivide function: 0.0Aphorizm
-text: Ftd
-author: MK9AXj6GIrjWeOjyCEpJZVXU6a3ID3LH81i72mXR
-30:
-result of PunctuationDivide function: 0.0Aphorizm
-text: wkqeCmRk383XCjL2AiroIAvYJtSRN5SVJGtYgTa7Rldwq9nF 6j86CLGOuaK4 zwIvDFzn0gRlfYnAyRK
-author: b5WZhE8Gw9qp4wTEdaRmj5kdNzFKbbBZN0h7zNfKXAJd8nTExtCG
-31:
+text: 3UP8mWj42YFPNtu9bkwJV6l4h5Lixc8ACjZpfFXjvq0LQ4acy2hGlDV6snVTYoaPhX0M20S63uyDKbq7sK3wMpSS4JgL6W8
+answer: YJhT2krHttmBL7FYwC8AalbPb3pfig6E6jA wEs
+3:
 result of PunctuationDivide function: 0.0Puzzle
 text: 3hzLemmBN
 answer: MBJ1TMYXLFgre694rHaPr sBoyGvIQ85WOD7UjPt66QiUfyftKRIXhekEfynUSDsGoikcCSh4TNKLy
+4:
+result of PunctuationDivide function: 0.0Aphorizm
+text: 3mwDY2eSL5GwubjEl0Cv03PYdFN4PBKcO9Xyo1wg8v2aO1ANw9AD4HMzw
+author: npa7H17IuxRb4PDY7mPdE56piRgdTGKAMwY3Q3bx0vBl1r05rwK1XgvoZSP00jt1sqX1fMIiAiv4M8 GL EIY3lgrSF
+5:
+result of PunctuationDivide function: 0.0Proverb
+text: 3tA6KeZI1EZ
+country: Fe6kUkMDMBwdwvbzD4bHKtBlWG3n6 HB1xSqMPXwGfR 436k3mqhpCYcFwAe7YBEE8chsEdiutUOCQ
+6:
+result of PunctuationDivide function: 0.0Puzzle
+text: 6SUDU
+answer: Uo2BpLyXyOPY0ba0O54ONdiX
+7:
+result of PunctuationDivide function: 0.0Aphorizm
+text: 7BRFKgvanfjUOoJ3kt8cNurOa3hUbXtnbJV7
+author: SNBO OGLK
+8:
+result of PunctuationDivide function: 0.0Puzzle
+text: 7wcRZPXLQTFhuGsfMRq5lG6t7CSyEiVea1z67Ts5EJMoBhBkS7OjT WocHGpHCjEcjUG69OSzaLwfcEhHyaS8NSkPqqb
+answer: 7MujfXRHDjkzOV2VNXMBnQax
+9:
+result of PunctuationDivide function: 0.0Puzzle
+text: 8BHS61YRSTEM4oZcJUFvRkXc3JMyHJkBzVk7rpHFpXo1g6YxKrAXXK2c036szLZBJXXY1RtDuvrPLDmm7zgHKn1MoNztgK
+answer: wmV6OfijXMZnIwJSmvW3 Mdjwe06t5devvm2SzStKrLWsG zCOU6G93X28iqeGyw0pZwcl DnGNK5O2UBvoOQlMxh0HIuevY5
+10:
+result of PunctuationDivide function: 0.0Puzzle
+text: BDQ22fzQm5PIgmeUkEybdyF60I4K5hk6tIntnBUideETrV2Xl0NO51rUkNgJwknfrPtl77 LI3h5EBg84Ji
+answer: QbK4ZiwbIUdpV3Kz63asRRz5gsQYUSyYQc7GfyS3l8JsOrr2Y1cRJxORlaI3YwFPBp9Sl 7g4NzDwnMYxDUB
+11:
+result of PunctuationDivide function: 0.0Puzzle
+text: BE0ExMrF9LOxOGXQHkaxUZjpuD1IaodleO0 VBMsrwhOBaUzl OySkvI4IG6KwR V 67R2dmyi050sWMwODP9b
+answer: eFseUor0mp
+12:
+result of PunctuationDivide function: 0.0Aphorizm
+text: C
+author: 1qzvvXsrIWGeKfT1EX74taf5l84wTyqDXBBZQNIjuG4fh3MicLQ7gDyrIn2Om7szgCcshxRU
+13:
+result of PunctuationDivide function: 0.0Proverb
+text: CIiMbRpbmMM1j1R0H676qfKs1qmKwk1SKEjxzctUsiC3QjWiZIcAa 2sVnAkfX6E6bXuapdIwwbB3oltW
+country: S0jmHbhVGhXZnc6AeLI1L8XOdTGYs0Gj1eDi1MdOUZ1ug5yWKgHBHczWp38n6GeZDMMLITn
+14:
+result of PunctuationDivide function: 0.0Puzzle
+text: CapSakKZqm QjMogumRH8e
+answer: AIbrG8HyC5hgs3mpHS5y9WxG0SJKarTImvUS3ZLMwv4VLMK4P6Ks4fEhAoYg
+15:
+result of PunctuationDivide function: 0.0Aphorizm
+text: DI3c1cQwP4fjWiyg4WoCSq duTqlLRwyqGO6kOSymHYR3gBuNC6jxq1cTWTROxh
+author: rDGttBllcpslC9EYJseeSeetecjis Quyo7 vZlO9vlnLjWTYEwZTManEh4
+16:
+result of PunctuationDivide function: 0.0Puzzle
+text: E4Re5kygYVhXJIUISAc8WiV18ZOfYFVRpI3wXrGcu PRR0ibyLg3ZtrxOzassArbKbsRLZCMKyo5h8rMMcTdBsL
+answer: WbZVdbAKPVG3hJaSBxwUBsa2p9stjW
+17:
+result of PunctuationDivide function: 0.0Proverb
+text: EFyNYeY399hGBSl7h
+country: qYU qiUYxZSu6jrhw7wws R4CeMluJAqnAqrTjwwvHjAZscZcCd3a0NOXumrrWK6e4W9TNuKTkigZtNIH3KFjE6Ke3Rdi6fWnl
+18:
+result of PunctuationDivide function: 0.0Proverb
+text: FHv9XtPXdg EilGtcWG22SslTRTyWMFhSiyWDPZgfdLeMpYEc0fE2jAeprzkg
+country: 5JZj00jlOTeVw0JQalD1I sxIIloEpRT7El7XoMNNiRVQsYXCTwFEH5SI4NcRsTRBgLy6h2JIs09
+19:
+result of PunctuationDivide function: 0.0Aphorizm
+text: Fsup0 e
+author: 8KDTr9E5Of0fqFl1kYbYcNA0KiPJqLonycUjJSnjTFJbtZyP7jieCGMYVyksUZzXi3TBLu7FYN5g2aoNb7xffeFRKaeqavbPv
+20:
+result of PunctuationDivide function: 0.0Aphorizm
+text: Ftd
+author: MK9AXj6GIrjWeOjyCEpJZVXU6a3ID3LH81i72mXR
+21:
+result of PunctuationDivide function: 0.0Proverb
+text: GFM6aRTY1PmbTuY2w4Yzv9ZAQ
+country: 2T7zg6Ahq6Ef4GSanEBShDFePFKCBhL7ZeFvOP
+22:
+result of PunctuationDivide function: 0.0Puzzle
+text: GcmTvDrGB6j5mk8RiKikgvgPwyT1dTlc 9hTTcwgOphZlObCSlap0Nua9 pj4ifYpupLFeOU1bEsmYBRhzP5EQ2Oox5S
+answer: K7LcqMNwJLDu6KJoA72PBFcjG3 mhyGORGIddqYucgyTFZEbg5OoMNqZlrQzfSo6VekVElbvk0keOOj9xd2xKCKppLS8Qhagr
+23:
+result of PunctuationDivide function: 0.0Puzzle
+text: HgLvWLlDXpxXOxqYEOIihf6n84XYJ3tiTcP
+answer: Zo7WAo7Du5EcTtYasqeCfy3mB3cCnU8dBkIAcyy1q6HpZ5G63rRMrz87ifI5MWEVBwQQiSq 0DppAPhPEvP0MWdjlqlbvSAiU
+24:
+result of PunctuationDivide function: 0.0Puzzle
+text: IeKxXgagO0arxgHszeyG6fUGtgMeOzInDyR
+answer: 7Op2S68i7LCmfidnMMVXEUqPzEO3ToDS
+25:
+result of PunctuationDivide function: 0.0Puzzle
+text: IlmktdTxqzGLTdyS4nFq u4HuyMg0p69 JjOA 4v6w70p
+answer: MaOTAeA9prPAqzuJQ1 PUMwNK27s155Bu6Md2iG d4cFHp0wL2 l3J06Ze3 HkmfGThWnJ8mieaBPl1QC7BukkJ
+26:
+result of PunctuationDivide function: 0.0Puzzle
+text: JYgKiZ68D7tWy5W4YWJWy8X1vMlhokARyOyumP4t7Y4iNSJOmXtRycmTJ4Qk8jWYeDyOT3ADPs5PV
+answer: mExBctUegDLTnJznP3apDFyILAFcQ0c0V3dHK65zt2VntX8LRZn ccfCri6svAqcLuUxvcrEEbFxDSE2laJPE9j4
+27:
+result of PunctuationDivide function: 0.0Puzzle
+text: Jynfw
+answer: nLnmSWX5yDhdjlvThh5XckitgJ3FCwKhyJfZ3aVmB82OdasTynKoUWXxmQxHn0zvL2kyQBp8AKj7zdF7RQIzR8xd A3O
+28:
+result of PunctuationDivide function: 0.0Aphorizm
+text: K6gPlkbZcxreFWo
+author: gw4atSgaS2dGHcGGIiFUbnEVcB5n0Gh2y8CRUQgwWtAUshrHNCL2MwYvBgQMuaRfMsNN0gCXEln
+29:
+result of PunctuationDivide function: 0.0Proverb
+text: MtvjWDD78wIw6YkTLeA506SVg6cGPaxpzzIbV2JceTZOl5WXebwiLzMd8 D1aGdGZ54PJUYL6b8GESHXvSePcs1qdbiMQ36
+country: Z5EILqCrnLJ6qFakR jd0p8xWwkv ixcoiorZsWo4
+30:
+result of PunctuationDivide function: 0.0Puzzle
+text: N4bY2Wu3iZk7zavrkCEgMHVtIGCuBvp8TBFiT
+answer: G5ILhjbsEPrF2mEzX
+31:
+result of PunctuationDivide function: 0.0Proverb
+text: NttV1pgax7HtbBaPsC0gmkdnpQ CuHoc5n iY6g1fY829k4rAwohhVAgwLkjJBf5GIyHOlGCw0LazSeweti
+country: awhimg3gyc3r
 32:
 result of PunctuationDivide function: 0.0Aphorizm
 text: O  WQa1Rq4zCb7u6774SZF1OIewJV1xCVMpO3rFLXoaFylpx9fh8rgwwD7Ij3FzFSdY4qOgVWwqNGYG20z
 author: PaN4G7YuAcSmMZzBaFB2Lb0Dmq02oUVc15DAG8xytwbP6KRcB1YaAZ0sh1cEcWZffekEQPp8ZWwRQkUsE9
 33:
-result of PunctuationDivide function: 0.0Puzzle
-text: E4Re5kygYVhXJIUISAc8WiV18ZOfYFVRpI3wXrGcu PRR0ibyLg3ZtrxOzassArbKbsRLZCMKyo5h8rMMcTdBsL
-answer: WbZVdbAKPVG3hJaSBxwUBsa2p9stjW
-34:
-result of PunctuationDivide function: 0.0Puzzle
-text: CapSakKZqm QjMogumRH8e
-answer: AIbrG8HyC5hgs3mpHS5y9WxG0SJKarTImvUS3ZLMwv4VLMK4P6Ks4fEhAoYg
-35:
-result of PunctuationDivide function: 0.0Proverb
-text: W3QDpXfYXTS3Z7MXytTF2HyXTEbcgKXob5xXrz8a4mep4lbAsH1QCf9mKDtnZ0wC9k8ZIc7a1HAfS DaU1q R
-country: 0GN3VKoektK0IyuiAmAw5D yz0YpNFPA
-36:
-result of PunctuationDivide function: 0.0Aphorizm
-text: XjakO7S91YNzHNujJSBIoCgs
-author: oDSFI3k7GFjN7z3DlLnHRua6VjlNjn4okyPiVqe3I6W
-37:
-result of PunctuationDivide function: 0.0Aphorizm
-text: wlgvvZ5tEM4r xZRMgrc7fY t3XFqi5qQAuUeTEfnzsjTp7BLrpdjNYVVmYmAJFdGmv5H7ZJj5QKxaC9IR5
-author: UdUKcLZM5JM6iTZe47J4dO9XiO7iOb5Meh0cGkQ0wY0tzBPJ6aOEIwJkmmEafYayLJyta
-38:
-result of PunctuationDivide function: 0.0Aphorizm
-text: ZsEm8vKkVoBsgdNFHO3M4
-author: VqRCg
-39:
-result of PunctuationDivide function: 0.0Proverb
-text: q63Dp67dNR5BBicd7L YuicMCe6PtVcoio7AZ FRLOk
-country: vn5Ty4XmIsZsd1c8 X5iPuO2O18VXYkDXudWjrCedX
-40:
-result of PunctuationDivide function: 0.0Aphorizm
-text: dMpvFbZ9Res5J0DLYaiqubw0QvXTLKPoIchx
-author: vbUeGJwb1IxUt5sssj3
-41:
-result of PunctuationDivide function: 0.0Puzzle
-text: IeKxXgagO0arxgHszeyG6fUGtgMeOzInDyR
-answer: 7Op2S68i7LCmfidnMMVXEUqPzEO3ToDS
-42:
-result of PunctuationDivide function: 0.0Proverb
-text: nGZjNh46ieGajSMU6xQQt61rMlu82wnEmVfcUU8Xf1gJUG
-country: Nvf
-43:
-result of PunctuationDivide function: 0.0Puzzle
-text: BE0ExMrF9LOxOGXQHkaxUZjpuD1IaodleO0 VBMsrwhOBaUzl OySkvI4IG6KwR V 67R2dmyi050sWMwODP9b
-answer: eFseUor0mp
-44:
-result of PunctuationDivide function: 0.0Proverb
-text: 1iXcNsOQAH21ncEMw mtn0y8ujeN7XZ1ChS8jfGsFmhQbaeM
-country: jLa9M 1QQSfCGIf1JRKnjWtgiTARc2
-45:
-result of PunctuationDivide function: 0.0Proverb
-text: MtvjWDD78wIw6YkTLeA506SVg6cGPaxpzzIbV2JceTZOl5WXebwiLzMd8 D1aGdGZ54PJUYL6b8GESHXvSePcs1qdbiMQ36
-country: Z5EILqCrnLJ6qFakR jd0p8xWwkv ixcoiorZsWo4
-46:
-result of PunctuationDivide function: 0.0Puzzle
-text: YFD15ddRms4M9jR4C2rJD0Scl8nOPxwa6GW8TaWPhZOzeKgAa7nn6XfMIb48Mv2qy CQObYs8ggw LttyL
-answer: oJNlxj85kiwipksxI nkbinIAprfAz8QOPtiCpt7hEfsiuOHleZz3IMl1pmWgaP0yN9aacRExSCeek
-47:
-result of PunctuationDivide function: 0.0Aphorizm
-text: Fsup0 e
-author: 8KDTr9E5Of0fqFl1kYbYcNA0KiPJqLonycUjJSnjTFJbtZyP7jieCGMYVyksUZzXi3TBLu7FYN5g2aoNb7xffeFRKaeqavbPv
-48:
-result of PunctuationDivide function: 0.0Proverb
-text: wndoupKtEgMF
-country: rW3LVG0kYdWbUDV7 ORLhQRMz M7duNtUKgjMzP3218JB18
-49:
-result of PunctuationDivide function: 0.0Puzzle
-text: z94TvaWEusSQKEkZ9dSt5OVMu1TcdULdrB
-answer: bPSoRi3NSX5n1RyiyoPMAQEM7tIgI2 IlST2yN
-50:
-result of PunctuationDivide function: 0.0Proverb
-text: ucThy4ny5VC Izu
-country: MiqF4Pex 2IO02nawt4u7CGKweUqP0gUGuIBgQJdMtgH7Q
-51:
-result of PunctuationDivide function: 0.0Puzzle
-text: XycEqL2L8A J1805GWnVqlyTV6RiLfy5aeav6yT7RuNE4SAcpIipaIL51jLepeiCwgKELroIZRnLG
-answer: 78ywQu13bzNyg1JVxTND7tylanD qY4rLjTw5wfrlKU2DDkj7dU8ldn3kJPt0eEIQWLHky2UH 69avfG9 z71om8SoO1FGrMt0
-52:
-result of PunctuationDivide function: 0.0Aphorizm
-text: jR0lJHw2uryUcXgN1OH q5j4sAUozLZWgrezDaOr6pGnPsnfkI6u5zHmFKVkLNBf7TuqKEbQ1ehVZa
-author: hBA8gCkGViBvaagmLUR0BfjhMTuxOsN7TdwJm
-53:
 result of PunctuationDivide function: 0.0Proverb
 text: PlUM LTAF5i8ICdb bZrtR2PuBzmaSf7axjAC8T38m9oG6DwjGE5qoo
 country: fkGc9YK3pVRfUqNK3265ZjfmGDdJQNi7rLvvYMf2naAHFNYPuio8nLhBOKvkGf9vURe2WT IvfI1uMlbVafmO
-54:
-result of PunctuationDivide function: 0.0Proverb
-text: 3tA6KeZI1EZ
-country: Fe6kUkMDMBwdwvbzD4bHKtBlWG3n6 HB1xSqMPXwGfR 436k3mqhpCYcFwAe7YBEE8chsEdiutUOCQ
-55:
-result of PunctuationDivide function: 0.0Puzzle
-text: lCAiIlGDsZa5tBMyaUNJugU643vYgjRVao9H00Pe7wiH0231oIdVsISHn5TYKVPU uwShZAX4IH1OoeH
-answer: luOiC7HBmmANgh
-56:
-result of PunctuationDivide function: 0.0Proverb
-text: qMoBHtga7jYq6toqMm d4jRfZ1eifDW7c4ptRmxUOm
-country: 3Ec3i4NIDYp80mMx0Y8cIW7arNa7WIkeU903wgk
-57:
-result of PunctuationDivide function: 0.0Puzzle
-text: HgLvWLlDXpxXOxqYEOIihf6n84XYJ3tiTcP
-answer: Zo7WAo7Du5EcTtYasqeCfy3mB3cCnU8dBkIAcyy1q6HpZ5G63rRMrz87ifI5MWEVBwQQiSq 0DppAPhPEvP0MWdjlqlbvSAiU
-58:
-result of PunctuationDivide function: 0.0Aphorizm
-text: K6gPlkbZcxreFWo
-author: gw4atSgaS2dGHcGGIiFUbnEVcB5n0Gh2y8CRUQgwWtAUshrHNCL2MwYvBgQMuaRfMsNN0gCXEln
-59:
-result of PunctuationDivide function: 0.0Proverb
-text: VnDNv1sVG0NiNP3uwS8x5bIqeNySk0wFZUEuvDbV1YBGlgHJ63htuUIp3aICDN98VEp8Vz43tuxu R5GrWMQoz7
-country: ZQuuEqGgie5Uo0hOQqcwKgkAbd7FZAt7tSKdfnzktzTsr2vhpiuzOLVzNdr4b1Cvih4d1ZDqCRyYRkbhf1cffHViCA3bFy3D
-60:
-result of PunctuationDivide function: 0.0Puzzle
-text: 3UP8mWj42YFPNtu9bkwJV6l4h5Lixc8ACjZpfFXjvq0LQ4acy2hGlDV6snVTYoaPhX0M20S63uyDKbq7sK3wMpSS4JgL6W8
-answer: YJhT2krHttmBL7FYwC8AalbPb3pfig6E6jA wEs
-61:
-result of PunctuationDivide function: 0.0Puzzle
-text: bZdNuJABqUPhfgarjnJd3SQkFOXerTrwfPsAlqRQN9Pfp14mHZLMNyY4LQAPVMb1dBPXJFzIzHYb3r52ZDU52XHpfEDjvRy
-answer: 8I tix4VwdY5wCXC2maeQ
-62:
-result of PunctuationDivide function: 0.0Puzzle
-text: JYgKiZ68D7tWy5W4YWJWy8X1vMlhokARyOyumP4t7Y4iNSJOmXtRycmTJ4Qk8jWYeDyOT3ADPs5PV
-answer: mExBctUegDLTnJznP3apDFyILAFcQ0c0V3dHK65zt2VntX8LRZn ccfCri6svAqcLuUxvcrEEbFxDSE2laJPE9j4
-63:
-result of PunctuationDivide function: 0.0Puzzle
-text: 8BHS61YRSTEM4oZcJUFvRkXc3JMyHJkBzVk7rpHFpXo1g6YxKrAXXK2c036szLZBJXXY1RtDuvrPLDmm7zgHKn1MoNztgK
-answer: wmV6OfijXMZnIwJSmvW3 Mdjwe06t5devvm2SzStKrLWsG zCOU6G93X28iqeGyw0pZwcl DnGNK5O2UBvoOQlMxh0HIuevY5
-64:
-result of PunctuationDivide function: 0.0Puzzle
-text: lU10zRLgMRjkBAAwKEtunuh3dZ3
-answer: JiLECzo7qyNqoAi26BpGvjt5WmkcHn2pVAoXxTH3PqkdtrarVZl
-65:
-result of PunctuationDivide function: 0.0Proverb
-text: bRvuozF33B8sPjZygOh01uHmEnWCvvJK3E9Qs2v1GT7AmZ wQ4pNCqdrDglw
-country: 2bqqRHsuWjTmCJHy0EDXqsw8jDnZ82Dx7KW0CWcMk8xLnlOe9vYXVS1kUHnL5cBz q21qGPcUPeRUwmshnJudDOQ
-66:
+34:
 result of PunctuationDivide function: 0.0Puzzle
 text: Q w0rrrz69TSm7BnHYMj77rH43Pfp9YxkIadeFNgeXE1Z qVxxT1YDPk
 answer: BKN7atxuptx9Wwtu8votd7 1b5QbDqHA2x64sDnSWumOry4DrU4BWjZjApot3gPKZnObJGu7vyRb8AYfzDkyhXn4q
-67:
-result of PunctuationDivide function: 0.0Puzzle
-text: N4bY2Wu3iZk7zavrkCEgMHVtIGCuBvp8TBFiT
-answer: G5ILhjbsEPrF2mEzX
-68:
-result of PunctuationDivide function: 0.0Puzzle
-text: IlmktdTxqzGLTdyS4nFq u4HuyMg0p69 JjOA 4v6w70p
-answer: MaOTAeA9prPAqzuJQ1 PUMwNK27s155Bu6Md2iG d4cFHp0wL2 l3J06Ze3 HkmfGThWnJ8mieaBPl1QC7BukkJ
-69:
-result of PunctuationDivide function: 0.0Aphorizm
-text: DI3c1cQwP4fjWiyg4WoCSq duTqlLRwyqGO6kOSymHYR3gBuNC6jxq1cTWTROxh
-author: rDGttBllcpslC9EYJseeSeetecjis Quyo7 vZlO9vlnLjWTYEwZTManEh4
-70:
-result of PunctuationDivide function: 0.0Proverb
-text: XJESMU33LU1yl1SvYBikPJ MXjZQOqP0tA7Jmfvj09FsDmseaNsBP4uvFbJvlsEA Gzm4ZYTmjPq1atKyBB9KbHkSb242
-country: bluLqFUSrvaedbyu4vMpqMVAo7ASyQJOFEEwNzONKk4VfqlHngNWTV2
-71:
-result of PunctuationDivide function: 0.0Proverb
-text: GFM6aRTY1PmbTuY2w4Yzv9ZAQ
-country: 2T7zg6Ahq6Ef4GSanEBShDFePFKCBhL7ZeFvOP
-72:
-result of PunctuationDivide function: 0.0Puzzle
-text: vfxJjCaYe O3Ff54joWY2RfLW3PheGxX9yYTjN8VbS4x489jy5p AcgpnC1lR74 Zy0
-answer: y6FKYRF61NHhbm7DHELRPkRmsZLDb4fVJgB75SPHN4ULu1h
-73:
-result of PunctuationDivide function: 0.0Proverb
-text: j78C8s4Hn9hd8lv44mKiC50exaBRx1GOlupmfXIkSut241KXJtt1FeNJ10rbxJtITt Y sXM0DNfSn7E8lqfQbD
-country: MMxmltt3TxQTy9v0x6eHNafUV8Oo1Y47E4sTAwd35ZLGkLbU0UV7IBvSS3Z9cQxsHQOGnuIN
-74:
-result of PunctuationDivide function: 0.0Proverb
-text: CIiMbRpbmMM1j1R0H676qfKs1qmKwk1SKEjxzctUsiC3QjWiZIcAa 2sVnAkfX6E6bXuapdIwwbB3oltW
-country: S0jmHbhVGhXZnc6AeLI1L8XOdTGYs0Gj1eDi1MdOUZ1ug5yWKgHBHczWp38n6GeZDMMLITn
-75:
-result of PunctuationDivide function: 0.0Proverb
-text: qKyJyNdTePcLxcyFG RbKBgDQFQR0ttGGZl9I16ppyw1JudAdXX1y IR736rhx6E4t7J
-country: m5FARH1NGdzdZ3nW6exLYsy5M0GZkkt1WM7xYU3PwpCbHl0SSyPJHm
-76:
-result of PunctuationDivide function: 0.0Proverb
-text: kzcEvO2sX DX54Ib2Jde22LkvPEWfhE8cQn3RVsyjq2k3t73tcIkeQpn5RqfVVZ45z7j q4Um
-country: 32VPzIlBw2V3xXTLUAs HbW x7mw0O7dvml8z9ncx8ihZfS565jWE8YSo6g608cPkwna4FSIEtQVriXFUeiadmEQOBTNDSS8JF
-77:
-result of PunctuationDivide function: 0.0Aphorizm
-text: 3mwDY2eSL5GwubjEl0Cv03PYdFN4PBKcO9Xyo1wg8v2aO1ANw9AD4HMzw
-author: npa7H17IuxRb4PDY7mPdE56piRgdTGKAMwY3Q3bx0vBl1r05rwK1XgvoZSP00jt1sqX1fMIiAiv4M8 GL EIY3lgrSF
-78:
-result of PunctuationDivide function: 0.0Aphorizm
-text: W
-author: vXr RTgrLJymU8BQuZyb9RdMuyOZLkcYrag4cQQTZHhY4
-79:
-result of PunctuationDivide function: 0.0Puzzle
-text: jJ8Izduur857pma cx4MhmsVziXN3QoIVadtVpCZNpvnh0FwcR3NGwxxX6bo5
-answer: v3g8QcWJIYnmyHe4zAgR3b04hrEv0BzM5RAPiK1ST1 abPNUNaH2aHvTI5TAuURG9Q3MO2MlhJup3TUDYb1E
-80:
-result of PunctuationDivide function: 0.0Proverb
-text: lLaw1ULRNAbYd
-country: 8jb3osHgGpAMudBRNO8BgNWxnneotPqsFlBDhhppj6MtLEWIPvGVLTCVXVOg WiBk3pR 3P3kHhw390XO8ekSGdz5PSfgqeCcb
-81:
-result of PunctuationDivide function: 0.0Proverb
-text: plGSE6uwM77IV3DAMlPr2kiCUmJKon8EQ8cGksNew16holSn5PNLmu AGkcRY
-country: v28Rv90NIE9jKyQ
-82:
-result of PunctuationDivide function: 0.0Aphorizm
-text: ulKQvDd9yQRInkvkmv8OoQoz3vEdveJzUo1LAnOKpYaOPIpnPRvosIKOnmajS02qAhUc1fHVP
-author: jPCN8JtSz4LAxmIK1w3ssVeqrRf
-83:
-result of PunctuationDivide function: 0.0Puzzle
-text: gvZMWHrNfmxVQ
-answer: pLUgb5sgo02JJncdJWVNgF2Uovp6
-84:
-result of PunctuationDivide function: 0.0Aphorizm
-text: bEAU68PoRKHVH6RcZP2PgxlVWfzpzSWPORgIxbbLdThrTLxeA49rzHR45p
-author: QteOlJvRtAv1bkkKmcoAx62tvy4h3zTXugWh9KpeLR5Ajp867N6i8j03UrM
-85:
-result of PunctuationDivide function: 0.0Puzzle
-text: BDQ22fzQm5PIgmeUkEybdyF60I4K5hk6tIntnBUideETrV2Xl0NO51rUkNgJwknfrPtl77 LI3h5EBg84Ji
-answer: QbK4ZiwbIUdpV3Kz63asRRz5gsQYUSyYQc7GfyS3l8JsOrr2Y1cRJxORlaI3YwFPBp9Sl 7g4NzDwnMYxDUB
-86:
+35:
 result of PunctuationDivide function: 0.0Puzzle
 text: QilEtRUnDigqAavXYLt24nMCpRnqYDwUQR92COz8PwRsQxn1SVdvuQYiFwwnS0qXNsHMnQXD
 answer: wZaNOLMnjAoJO7j0Cwc6mtBj
-87:
-result of PunctuationDivide function: 0.0Proverb
-text: FHv9XtPXdg EilGtcWG22SslTRTyWMFhSiyWDPZgfdLeMpYEc0fE2jAeprzkg
-country: 5JZj00jlOTeVw0JQalD1I sxIIloEpRT7El7XoMNNiRVQsYXCTwFEH5SI4NcRsTRBgLy6h2JIs09
-88:
+36:
 result of PunctuationDivide function: 0.0Aphorizm
-text: YsgR6uBVlVPzXwoKchFBc6ThCnOKOlqOZRpW4jdafeS6jqrHQ3grw3uhoyhXfoH1TJZWFk0UQmKo3eqjsN1RJtCPPBcPYjAt
-author: GMGG taByANJ49gJuyOboH1MngfxwXb0Gl8DAQmDWli6U2FHvevpQQUsr5NE1hHkysDzXPZPP1vlJSWKeE3kVz
-89:
+text: R7Grfm
+author: H rfnODQOgs2 KsSDlstQNArhNY84fKp6wNNQprp0mTc8n1H1oUKR
+37:
 result of PunctuationDivide function: 0.0Proverb
-text: NttV1pgax7HtbBaPsC0gmkdnpQ CuHoc5n iY6g1fY829k4rAwohhVAgwLkjJBf5GIyHOlGCw0LazSeweti
-country: awhimg3gyc3r
-90:
-result of PunctuationDivide function: 0.0Proverb
-text: EFyNYeY399hGBSl7h
-country: qYU qiUYxZSu6jrhw7wws R4CeMluJAqnAqrTjwwvHjAZscZcCd3a0NOXumrrWK6e4W9TNuKTkigZtNIH3KFjE6Ke3Rdi6fWnl
-91:
-result of PunctuationDivide function: 0.0Puzzle
-text: 6SUDU
-answer: Uo2BpLyXyOPY0ba0O54ONdiX
-92:
-result of PunctuationDivide function: 0.0Puzzle
-text: mofR7pTAOZ0Z6VFiiqBaTDV
-answer: O56vSypDyYU9bZnTKFVUBLg2Ao 9RWeLjwlWmafUpmVAmq5qTtanCwklQvHiOzIcESWevTA6n
-93:
-result of PunctuationDivide function: 0.0Puzzle
-text: bIYuNGcG8UL2sFZwXUIM1TjWIE0mjj9cAjSqe0bs27wIugUTl2CsxTTeYFGOoIy9l7bGCbx7RZ2LJaktufe17P5Vb2jukW
-answer: 1vP7KXat MPjIbFddQcvKI2Xt4MKYa2BqGR47oGJFO7TuZA9OCfGaJ4T7XkHW31XLwacf1TIAFYrk3PHkAhbRB
-94:
-result of PunctuationDivide function: 0.0Proverb
-text: j4y1vdiLoTRpgGK7dR7JQQCzIARYxhH4H6BQbU
-country: axUjwi78zGjhTItyahF1SwL2RZtWD
-95:
-result of PunctuationDivide function: 0.0Aphorizm
-text: 7BRFKgvanfjUOoJ3kt8cNurOa3hUbXtnbJV7
-author: SNBO OGLK
-96:
-result of PunctuationDivide function: 0.0Puzzle
-text: GcmTvDrGB6j5mk8RiKikgvgPwyT1dTlc 9hTTcwgOphZlObCSlap0Nua9 pj4ifYpupLFeOU1bEsmYBRhzP5EQ2Oox5S
-answer: K7LcqMNwJLDu6KJoA72PBFcjG3 mhyGORGIddqYucgyTFZEbg5OoMNqZlrQzfSo6VekVElbvk0keOOj9xd2xKCKppLS8Qhagr
-97:
-result of PunctuationDivide function: 0.0Puzzle
-text: ZRwmb94JLJDl2LJKpZ0GxhqIv4jyPSo1akhFAWWeM1pocxOA4W0DF5 y 9Qe CyD6O391E2TpJ4CcEEhyTIDcDboUcKCsHdub
-answer: JF69yZMJLXS 1
-98:
+text: SxL151L5Eu77zjKDIdiEVakiXlyMoYgWignL
+country: I838ZVTK71mN6q2G18Lds62YUDjJ1irc
+38:
 result of PunctuationDivide function: 0.0Puzzle
 text: TIAc7wXYZjJepROQwEIH ReuHgFSSOoNR9jzapOJIuQobFiEsPfyh
 answer: onyFKhqv3AiFSQ5MpGSURl9Fgu0jQMu xUhJOJkoIHQl0g83EYMees1xjBAFNqfRtlW33xF5z6ofni
-99:
+39:
+result of PunctuationDivide function: 0.0Proverb
+text: VnDNv1sVG0NiNP3uwS8x5bIqeNySk0wFZUEuvDbV1YBGlgHJ63htuUIp3aICDN98VEp8Vz43tuxu R5GrWMQoz7
+country: ZQuuEqGgie5Uo0hOQqcwKgkAbd7FZAt7tSKdfnzktzTsr2vhpiuzOLVzNdr4b1Cvih4d1ZDqCRyYRkbhf1cffHViCA3bFy3D
+40:
+result of PunctuationDivide function: 0.0Aphorizm
+text: W
+author: vXr RTgrLJymU8BQuZyb9RdMuyOZLkcYrag4cQQTZHhY4
+41:
+result of PunctuationDivide function: 0.0Proverb
+text: W3QDpXfYXTS3Z7MXytTF2HyXTEbcgKXob5xXrz8a4mep4lbAsH1QCf9mKDtnZ0wC9k8ZIc7a1HAfS DaU1q R
+country: 0GN3VKoektK0IyuiAmAw5D yz0YpNFPA
+42:
+result of PunctuationDivide function: 0.0Puzzle
+text: W7IR27LNKz6i1wY237fua6qH6fMKdl7m 6dEgXhWXS1SstVbzLAjQSkhLvNiYTq1O1gBXMdwU1PB8q5CCuyS6hcW6DLtw45
+answer: 1nrw2UAk5gDhnwCXz0KVBaRIQMal
+43:
+result of PunctuationDivide function: 0.0Proverb
+text: Wyl1ns2D0IWelLacGPOL1SEHWwH99wrlYQCH6OnqNLE06Fgl4OK yBDQt7FyIlsIce faztGddrVgY5kGqH
+country: KuERmwu4zMQDpC90VwjWPBj7ZVMnPo mdQ W6ZcM4DEeJHyWeImRtLgUtJ1NktbGy8UerMv8Gphey9WcS4J
+44:
+result of PunctuationDivide function: 0.0Proverb
+text: XJESMU33LU1yl1SvYBikPJ MXjZQOqP0tA7Jmfvj09FsDmseaNsBP4uvFbJvlsEA Gzm4ZYTmjPq1atKyBB9KbHkSb242
+country: bluLqFUSrvaedbyu4vMpqMVAo7ASyQJOFEEwNzONKk4VfqlHngNWTV2
+45:
+result of PunctuationDivide function: 0.0Aphorizm
+text: XjakO7S91YNzHNujJSBIoCgs
+author: oDSFI3k7GFjN7z3DlLnHRua6VjlNjn4okyPiVqe3I6W
+46:
+result of PunctuationDivide function: 0.0Puzzle
+text: XycEqL2L8A J1805GWnVqlyTV6RiLfy5aeav6yT7RuNE4SAcpIipaIL51jLepeiCwgKELroIZRnLG
+answer: 78ywQu13bzNyg1JVxTND7tylanD qY4rLjTw5wfrlKU2DDkj7dU8ldn3kJPt0eEIQWLHky2UH 69avfG9 z71om8SoO1FGrMt0
+47:
+result of PunctuationDivide function: 0.0Puzzle
+text: YFD15ddRms4M9jR4C2rJD0Scl8nOPxwa6GW8TaWPhZOzeKgAa7nn6XfMIb48Mv2qy CQObYs8ggw LttyL
+answer: oJNlxj85kiwipksxI nkbinIAprfAz8QOPtiCpt7hEfsiuOHleZz3IMl1pmWgaP0yN9aacRExSCeek
+48:
+result of PunctuationDivide function: 0.0Aphorizm
+text: YsgR6uBVlVPzXwoKchFBc6ThCnOKOlqOZRpW4jdafeS6jqrHQ3grw3uhoyhXfoH1TJZWFk0UQmKo3eqjsN1RJtCPPBcPYjAt
+author: GMGG taByANJ49gJuyOboH1MngfxwXb0Gl8DAQmDWli6U2FHvevpQQUsr5NE1hHkysDzXPZPP1vlJSWKeE3kVz
+49:
+result of PunctuationDivide function: 0.0Puzzle
+text: ZRwmb94JLJDl2LJKpZ0GxhqIv4jyPSo1akhFAWWeM1pocxOA4W0DF5 y 9Qe CyD6O391E2TpJ4CcEEhyTIDcDboUcKCsHdub
+answer: JF69yZMJLXS 1
+50:
+result of PunctuationDivide function: 0.0Puzzle
+text: ZbZB2Id TKFwQhCisn1YROsi96B7uqN3kNDb1E1tVuSsu91ReCZ8E1kb8H
+answer: oPoMBsGAkqBI08uTsMQ3oQcFeSIfzmXFDS13sq26StfFE9oNMmpFKEv8Dam9bUx07rgS7NPPPlmvrQRKTFK9750zktijk8
+51:
+result of PunctuationDivide function: 0.0Aphorizm
+text: ZsEm8vKkVoBsgdNFHO3M4
+author: VqRCg
+52:
+result of PunctuationDivide function: 0.0Proverb
+text: ZtTPLzKBZ1JhO 7OzJ7YyaJxhnhePHNDodBP3
+country: CgoKXA5NTjqvyOhsBTeENikEQybrfG22JGIAUJgKiUtHcfAD8dwz7
+53:
+result of PunctuationDivide function: 0.0Puzzle
+text: aBPJV kHCCGhJuSiAiuqCoV wJHWHDPYtIY
+answer: yX4Kk zMSrxbLxj9OznCoFD7ryqtLhDLz9o rB5R8ni
+54:
+result of PunctuationDivide function: 0.0Aphorizm
+text: aWnaQ8JkMD4npx05p4cQ17pe KSJGx8yyWcUuxEDd zcpzv2btGV8etGRE6pmsVM
+author: WR74y5ix 87f5QZlykAWXh0y1nQg6zxsibI7jaaPa59eUbJGCfV5MTiSZsNptTOEz7HRiC1QkmRhMeAejvjR1Evoi
+55:
+result of PunctuationDivide function: 0.0Aphorizm
+text: bEAU68PoRKHVH6RcZP2PgxlVWfzpzSWPORgIxbbLdThrTLxeA49rzHR45p
+author: QteOlJvRtAv1bkkKmcoAx62tvy4h3zTXugWh9KpeLR5Ajp867N6i8j03UrM
+56:
+result of PunctuationDivide function: 0.0Puzzle
+text: bIYuNGcG8UL2sFZwXUIM1TjWIE0mjj9cAjSqe0bs27wIugUTl2CsxTTeYFGOoIy9l7bGCbx7RZ2LJaktufe17P5Vb2jukW
+answer: 1vP7KXat MPjIbFddQcvKI2Xt4MKYa2BqGR47oGJFO7TuZA9OCfGaJ4T7XkHW31XLwacf1TIAFYrk3PHkAhbRB
+57:
+result of PunctuationDivide function: 0.0Proverb
+text: bRvuozF33B8sPjZygOh01uHmEnWCvvJK3E9Qs2v1GT7AmZ wQ4pNCqdrDglw
+country: 2bqqRHsuWjTmCJHy0EDXqsw8jDnZ82Dx7KW0CWcMk8xLnlOe9vYXVS1kUHnL5cBz q21qGPcUPeRUwmshnJudDOQ
+58:
+result of PunctuationDivide function: 0.0Puzzle
+text: bZdNuJABqUPhfgarjnJd3SQkFOXerTrwfPsAlqRQN9Pfp14mHZLMNyY4LQAPVMb1dBPXJFzIzHYb3r52ZDU52XHpfEDjvRy
+answer: 8I tix4VwdY5wCXC2maeQ
+59:
+result of PunctuationDivide function: 0.0Aphorizm
+text: cDoQIPLn87
+author: otJRs7PtyDcerH5no1KFoTJdiQzNklQejnSgun9x7OXJfIaRaBI8RCHHYJH9TNcuhd8W xYBR
+60:
+result of PunctuationDivide function: 0.0Aphorizm
+text: dMpvFbZ9Res5J0DLYaiqubw0QvXTLKPoIchx
+author: vbUeGJwb1IxUt5sssj3
+61:
+result of PunctuationDivide function: 0.0Proverb
+text: dn7f2GKjG
+country: eRGvbU5VAVkYE3LUI9ACZQck4CHHp1HtQsnvKlbs1TQNFHNwYvl06sTm6uts3m6lyE7PQgUSFw9 KhVMSK dVR0r0
+62:
+result of PunctuationDivide function: 0.0Aphorizm
+text: eCqAZymwy59uxk5xv1c8tNl4SS
+author: OtqbGCPjs54eCEp9QF6DgDw7EnVWxYrKtwoLY4QTcTlZWwpwxiL3HprcCixnnGSBWiLOWp2Zp8ePKVSG15fPBdvpDxi1xqk4
+63:
+result of PunctuationDivide function: 0.0Puzzle
+text: fl476LBQh 37YC9H7sajb4mODKYfyiMeo2a
+answer: N1TGOzTx2ZXITY5r11AXGqu8wqsJPQmdHXU5l4nRhI
+64:
+result of PunctuationDivide function: 0.0Puzzle
+text: ftE1gbQNe4KqNYpM5ArEN0BZR0I65zx
+answer: oBnKn3Cee9RlO517ZKh2538xjqgG9i9ehrl7JYl
+65:
+result of PunctuationDivide function: 0.0Puzzle
+text: gvZMWHrNfmxVQ
+answer: pLUgb5sgo02JJncdJWVNgF2Uovp6
+66:
+result of PunctuationDivide function: 0.0Puzzle
+text: iQL3IS4WRdM0UpPirve509A9keK9UYigKbnFT
+answer: 6XUYis
+67:
+result of PunctuationDivide function: 0.0Aphorizm
+text: il1L5R7EzovcIodKeDLctbHAcazkF4bYrLv6CeRaUuduGDApjg6zdxmezIiFNMPYgFGHTGtnC8Q9hckVo03XtZv4bSF
+author: mFhqsc6g8ApUCpqyyVghmVlpbiXWbdoQ4ktEwHLdNDtMNaARBEdzoD WeYaCMPD6SFjH
+68:
+result of PunctuationDivide function: 0.0Proverb
+text: ivqkMYWTcAQWPtH4xo
+country: kADwoZgSbq5bTdOXDKrE9cOx79k1eZZnlu
+69:
+result of PunctuationDivide function: 0.0Proverb
+text: j4y1vdiLoTRpgGK7dR7JQQCzIARYxhH4H6BQbU
+country: axUjwi78zGjhTItyahF1SwL2RZtWD
+70:
+result of PunctuationDivide function: 0.0Proverb
+text: j78C8s4Hn9hd8lv44mKiC50exaBRx1GOlupmfXIkSut241KXJtt1FeNJ10rbxJtITt Y sXM0DNfSn7E8lqfQbD
+country: MMxmltt3TxQTy9v0x6eHNafUV8Oo1Y47E4sTAwd35ZLGkLbU0UV7IBvSS3Z9cQxsHQOGnuIN
+71:
+result of PunctuationDivide function: 0.0Puzzle
+text: jJ8Izduur857pma cx4MhmsVziXN3QoIVadtVpCZNpvnh0FwcR3NGwxxX6bo5
+answer: v3g8QcWJIYnmyHe4zAgR3b04hrEv0BzM5RAPiK1ST1 abPNUNaH2aHvTI5TAuURG9Q3MO2MlhJup3TUDYb1E
+72:
+result of PunctuationDivide function: 0.0Aphorizm
+text: jR0lJHw2uryUcXgN1OH q5j4sAUozLZWgrezDaOr6pGnPsnfkI6u5zHmFKVkLNBf7TuqKEbQ1ehVZa
+author: hBA8gCkGViBvaagmLUR0BfjhMTuxOsN7TdwJm
+73:
+result of PunctuationDivide function: 0.0Proverb
+text: kCrCoUimtULCU9IPJNEMPfNiqM
+country: wWHlUgJs3MaUN6xEQWp6u
+74:
+result of PunctuationDivide function: 0.0Proverb
+text: kzcEvO2sX DX54Ib2Jde22LkvPEWfhE8cQn3RVsyjq2k3t73tcIkeQpn5RqfVVZ45z7j q4Um
+country: 32VPzIlBw2V3xXTLUAs HbW x7mw0O7dvml8z9ncx8ihZfS565jWE8YSo6g608cPkwna4FSIEtQVriXFUeiadmEQOBTNDSS8JF
+75:
+result of PunctuationDivide function: 0.0Puzzle
+text: lCAiIlGDsZa5tBMyaUNJugU643vYgjRVao9H00Pe7wiH0231oIdVsISHn5TYKVPU uwShZAX4IH1OoeH
+answer: luOiC7HBmmANgh
+76:
+result of PunctuationDivide function: 0.0Puzzle
+text: lIGpxVFjL50 cNRVtrQobwt10
+answer: mMJFV7N2TflOnAr
+77:
+result of PunctuationDivide function: 0.0Proverb
+text: lLaw1ULRNAbYd
+country: 8jb3osHgGpAMudBRNO8BgNWxnneotPqsFlBDhhppj6MtLEWIPvGVLTCVXVOg WiBk3pR 3P3kHhw390XO8ekSGdz5PSfgqeCcb
+78:
+result of PunctuationDivide function: 0.0Puzzle
+text: lU10zRLgMRjkBAAwKEtunuh3dZ3
+answer: JiLECzo7qyNqoAi26BpGvjt5WmkcHn2pVAoXxTH3PqkdtrarVZl
+79:
+result of PunctuationDivide function: 0.0Proverb
+text: lnFt kP3WYfVPhLwDhdHzAN8APcLFPpKZTWkHNKZw3srKEqHWjZLDqxxO2alz4h2dsY2ykdaJJwmeZk NPaAqm
+country: 2Wsde TOE
+80:
+result of PunctuationDivide function: 0.0Puzzle
+text: mofR7pTAOZ0Z6VFiiqBaTDV
+answer: O56vSypDyYU9bZnTKFVUBLg2Ao 9RWeLjwlWmafUpmVAmq5qTtanCwklQvHiOzIcESWevTA6n
+81:
+result of PunctuationDivide function: 0.0Puzzle
+text: nGUqV3mK4pWuSP2ZlgfCZ JVv2 d46fEsidedpFsL6lD98EChuAsk10oV1h1gjzKsMW1nRmtG3M2VckVU1
+answer: tPeHEmkROt
+82:
+result of PunctuationDivide function: 0.0Proverb
+text: nGZjNh46ieGajSMU6xQQt61rMlu82wnEmVfcUU8Xf1gJUG
+country: Nvf
+83:
+result of PunctuationDivide function: 0.0Proverb
+text: nT7lVnaqLicWbpLwOjmNyhb5i0iQNdqrj5m2N3oNcQDGT9IdwUHBBvE
+country: 2OAHVVIfHZVcDdn29Z r UPmr1M8JEdPBxsRGAAF68jMmMuZM6t
+84:
+result of PunctuationDivide function: 0.0Aphorizm
+text: ozl7JY2FHJOU mhwAaMsRcd1Hns7knV
+author: 6i3HurpdHvfL
+85:
+result of PunctuationDivide function: 0.0Puzzle
+text: pDFOZGzEHvRXgiDjmcaNRVvOFFcJmDJ5QZPh0gvKikEM3mcHxWuVg5zMavTABS
+answer: G8f3jLdKgX7r6ZGktGClJOIPIjBqTn4VN9TR4ODNM1Dh21Fml1RovKhX60xM9XHrst3MnsXZrlZH875
+86:
+result of PunctuationDivide function: 0.0Proverb
+text: plGSE6uwM77IV3DAMlPr2kiCUmJKon8EQ8cGksNew16holSn5PNLmu AGkcRY
+country: v28Rv90NIE9jKyQ
+87:
+result of PunctuationDivide function: 0.0Proverb
+text: q63Dp67dNR5BBicd7L YuicMCe6PtVcoio7AZ FRLOk
+country: vn5Ty4XmIsZsd1c8 X5iPuO2O18VXYkDXudWjrCedX
+88:
+result of PunctuationDivide function: 0.0Proverb
+text: qKyJyNdTePcLxcyFG RbKBgDQFQR0ttGGZl9I16ppyw1JudAdXX1y IR736rhx6E4t7J
+country: m5FARH1NGdzdZ3nW6exLYsy5M0GZkkt1WM7xYU3PwpCbHl0SSyPJHm
+89:
+result of PunctuationDivide function: 0.0Proverb
+text: qMoBHtga7jYq6toqMm d4jRfZ1eifDW7c4ptRmxUOm
+country: 3Ec3i4NIDYp80mMx0Y8cIW7arNa7WIkeU903wgk
+90:
 result of PunctuationDivide function: 0.0Puzzle
 text: qpsDuxbhi6mmpnUOYRpJS9RRn5G3ofh7LZ6AprS1RgJs9AEWpoUKRojfLfTaKgpdLxDS7eOw41FoJOhVbXlgRX5FGkbb9OGQiqP5
 answer: jo7KLqMxJnKS xMdVLIwFkSDVlXk7IPmf5E5ZrmYT
+91:
+result of PunctuationDivide function: 0.0Puzzle
+text: qqWNTLXzuT9AXE3slycJGCYiniKvw77eqnMcjaw 0WNJPzK9cyc
+answer: aIGTCN6mXaSkaM2VBdt2
+92:
+result of PunctuationDivide function: 0.0Proverb
+text: ucThy4ny5VC Izu
+country: MiqF4Pex 2IO02nawt4u7CGKweUqP0gUGuIBgQJdMtgH7Q
+93:
+result of PunctuationDivide function: 0.0Aphorizm
+text: ulKQvDd9yQRInkvkmv8OoQoz3vEdveJzUo1LAnOKpYaOPIpnPRvosIKOnmajS02qAhUc1fHVP
+author: jPCN8JtSz4LAxmIK1w3ssVeqrRf
+94:
+result of PunctuationDivide function: 0.0Puzzle
+text: vfxJjCaYe O3Ff54joWY2RfLW3PheGxX9yYTjN8VbS4x489jy5p AcgpnC1lR74 Zy0
+answer: y6FKYRF61NHhbm7DHELRPkRmsZLDb4fVJgB75SPHN4ULu1h
+95:
+result of PunctuationDivide function: 0.0Aphorizm
+text: wkqeCmRk383XCjL2AiroIAvYJtSRN5SVJGtYgTa7Rldwq9nF 6j86CLGOuaK4 zwIvDFzn0gRlfYnAyRK
+author: b5WZhE8Gw9qp4wTEdaRmj5kdNzFKbbBZN0h7zNfKXAJd8nTExtCG
+96:
+result of PunctuationDivide function: 0.0Aphorizm
+text: wlgvvZ5tEM4r xZRMgrc7fY t3XFqi5qQAuUeTEfnzsjTp7BLrpdjNYVVmYmAJFdGmv5H7ZJj5QKxaC9IR5
+author: UdUKcLZM5JM6iTZe47J4dO9XiO7iOb5Meh0cGkQ0wY0tzBPJ6aOEIwJkmmEafYayLJyta
+97:
+result of PunctuationDivide function: 0.0Proverb
+text: wndoupKtEgMF
+country: rW3LVG0kYdWbUDV7 ORLhQRMz M7duNtUKgjMzP3218JB18
+98:
+result of PunctuationDivide function: 0.0Aphorizm
+text: woRcS
+author: JCv0HAFTCsB95opYApWMYk13bilSfqlpSdDbCGz37ItEIrmU0kkZeKz
+99:
+result of PunctuationDivide function: 0.0Puzzle
+text: z94TvaWEusSQKEkZ9dSt5OVMu1TcdULdrB
+answer: bPSoRi3NSX5n1RyiyoPMAQEM7tIgI2 IlST2yN

@@ -46,6 +46,7 @@ if __name__ == '__main__':
     outfile.write("Filled container:\n")
     c.print(outfile)
     outfile.write("Sorted container:\n")
+    c.sort()
     c.print(outfile)
     outfile.close()
     print("Stop")
