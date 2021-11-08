@@ -37,4 +37,8 @@ class Container:
             self.store.append(obj)
 
     def sort(self):
-        self.store.sort()
+        for i in range(len(self.store)):
+            for j in range(i + 1, len(self.store)):
+                if self.store[j] < self.store[i]:
+                    self.store[j], self.store[i] = self.store[i], self.store[j]
+
