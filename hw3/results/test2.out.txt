@@ -1,0 +1,12 @@
+Filled container:
+Container size: 1
+0:
+result of PunctuationDivide function: 0.29545454545454547Aphorizm
+text: %jISQg%2GA1W&whT(u~yQWdS4l!}*^>\P/tCyj>LcOeV
+author: nRDV33G;2AS1mO0A;1%<^i:P;4>YkKewA;8g}(i2ytNYV9T1GK&/"Z5&-&]FPU9]Sa5O*o^I-{
+Sorted container:
+Container size: 1
+0:
+result of PunctuationDivide function: 0.29545454545454547Aphorizm
+text: %jISQg%2GA1W&whT(u~yQWdS4l!}*^>\P/tCyj>LcOeV
+author: nRDV33G;2AS1mO0A;1%<^i:P;4>YkKewA;8g}(i2ytNYV9T1GK&/"Z5&-&]FPU9]Sa5O*o^I-{

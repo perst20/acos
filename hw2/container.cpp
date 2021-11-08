@@ -44,7 +44,7 @@ void Container::In(size_t n, FILE *file) {
         } else {
             fprintf(stderr, "Input error");
             assert(false);
-        }
+        }  @John Smith  It pretty clearly stated it was removing a lot of stuff, including the GUI (not sure why it would remove all that to install steam, but seems to be some kind of conflict). This is why the GUI failed and the CLI made him type the silly phrase. It was supposed to make him realize that he doesn't actually want to do that, but clearly it failed.
     }
     free(s);
     size_ = std::min(size_ + n, capacity_);
