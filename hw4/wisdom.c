@@ -87,16 +87,16 @@ void WisdomOut(const wisdom *wsd, FILE *file) {
 
 }
 
-double WisdomPunctuationDivide(const wisdom *wsd) {
-    int cnt = 0, size = 0;
-    for (char const *i = wsd->text; *i != '\0'; ++i) {
-        for (char const *j = punct; *j != '\0'; ++j) {
-            if (*j == *i) {
-                ++cnt;
-                break;
-            }
-        }
-        ++size;
-    }
-    return (double) cnt / size;
-}
+//double WisdomPunctuationDivide(const wisdom *wsd) {
+//    int cnt = 0, size = 0;
+//    for (char const *i = wsd->text; *i != '\0'; ++i) {
+//        for (char const *j = punct; *j != '\0'; ++j) {
+//            if (*j == *i) {
+//                ++cnt;
+//                break;
+//            }
+//        }
+//        ++size;
+//    }
+//    return (double) cnt / size;
+//}

@@ -43,16 +43,16 @@ void ContainerOut(container *c, FILE *file) {
     }
 }
 
-void ContainerSort(container *c) {
-    size_t size = c->size;
-    wisdom **end = c->data + size;
-    for (wisdom **i = c->data; i != end; ++i) {
-        for (wisdom **j = i + 1; j != end; ++j) {
-            if (strcmp((*i)->text, (*j)->text) > 0) {
-                wisdom *temp = *i;
-                *i = *j;
-                *j = temp;
-            }
-        }
-    }
-}
+//void ContainerSort(container *c) {
+//    size_t size = c->size;
+//    wisdom **end = c->data + size;
+//    for (wisdom **i = c->data; i != end; ++i) {
+//        for (wisdom **j = i + 1; j != end; ++j) {
+//            if (strcmp((*i)->text, (*j)->text) > 0) {
+//                wisdom *temp = *i;
+//                *i = *j;
+//                *j = temp;
+//            }
+//        }
+//    }
+//}

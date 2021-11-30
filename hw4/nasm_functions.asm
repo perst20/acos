@@ -1,18 +1,21 @@
 extern strcmp
+extern puts
+global WisdomPunctuationDivide
+global ContainerSort
 
 WisdomPunctuationDivide:
         mov     r8, QWORD [rdi+8]
-        xor     rax, rax
-        xor     rdx, rdx
+        xor     rax, QWORD rax
+        xor     rdx, QWORD rdx
 for_i:
-        mov     r9b, BYTE [r8]
+        mov     r9b, BYTE [r8 + rax]
         test    r9b, r9b
-        je      for_i_end
+        jz      for_i_end
         mov     rcx, punct
 for_j:
         mov     r10b, BYTE [rcx]
         test    r10b, r10b
-        je      for_j_end
+        jz      for_j_end
         cmp     r10b, r9b
         jne     if_not
         inc     rdx
