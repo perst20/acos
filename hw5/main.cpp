@@ -80,7 +80,6 @@ for (int i = 0; i < n; ++i) {
     for (int i = 0; i < n; ++i) {
         if (clients[i].get()) {
             std::cout << "Student number " << i << " is a winner\n";
-            break;
         }
     }
     return 0;
